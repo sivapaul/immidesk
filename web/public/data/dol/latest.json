@@ -1,0 +1,570 @@
+{
+  "tables": [
+    {
+      "heading": "https://",
+      "header": [
+        "Processing Times Update Schedule"
+      ],
+      "rows": [
+        [
+          "PWD: Updated COB at the end of first work week of each month for data ending at 12am EST at the first of each month"
+        ],
+        [
+          "PERM: Updated COB at end of first work week of each month for data ending at 12am EST at the first of each month"
+        ],
+        [
+          "H-2A: Updated Monday of each week (or next business day) for weekly data ending COB of each Saturday"
+        ],
+        [
+          "H-2B: Updated Monday of each week (or next business day) for weekly data ending COB of each Saturday and additional updates on Wednesday and Friday for data as of COB on previous day"
+        ],
+        [
+          "CW-1: Updated Monday of each week (or next business day) for weekly data ending COB of each Saturday"
+        ]
+      ]
+    },
+    {
+      "heading": "Prevailing Wage Determination Processing Times",
+      "header": [
+        "Processing Queue",
+        "OEWS Receipt Date i",
+        "Non-OEWS Receipt Date i"
+      ],
+      "rows": [
+        [
+          "CW-1",
+          "August 2026",
+          "--"
+        ],
+        [
+          "H-1B",
+          "June 2026",
+          "June 2026"
+        ],
+        [
+          "H-2B",
+          "August 2026",
+          "--"
+        ],
+        [
+          "PERM",
+          "June 2026",
+          "June 2026"
+        ],
+        [
+          "Redeterminations",
+          "H-1B: August 2026 PERM: July 2026"
+        ],
+        [
+          "Center Director Reviews",
+          "CW-1: September 2026 H-1B: July 2026 H-2B: June 2026 PERM: July 2026"
+        ]
+      ]
+    },
+    {
+      "heading": "Prevailing Wage Determination Processing Times",
+      "header": [
+        "CW-1"
+      ],
+      "rows": [
+        [
+          "Receipt Month ii",
+          "Remaining Requests ii"
+        ],
+        [
+          "May 2026",
+          "2"
+        ],
+        [
+          "June 2026",
+          "8"
+        ],
+        [
+          "July 2026",
+          "5"
+        ],
+        [
+          "August 2026",
+          "36"
+        ],
+        [
+          "September 2026",
+          "159"
+        ]
+      ]
+    },
+    {
+      "heading": "Prevailing Wage Determination Processing Times",
+      "header": [
+        "H-1B"
+      ],
+      "rows": [
+        [
+          "Receipt Month ii",
+          "Remaining Requests ii"
+        ],
+        [
+          "April 2026",
+          "3"
+        ],
+        [
+          "May 2026",
+          "1"
+        ],
+        [
+          "June 2026",
+          "74"
+        ],
+        [
+          "July 2026",
+          "248"
+        ],
+        [
+          "August 2026",
+          "183"
+        ],
+        [
+          "September 2026",
+          "201"
+        ]
+      ]
+    },
+    {
+      "heading": "Prevailing Wage Determination Processing Times",
+      "header": [
+        "H-2B"
+      ],
+      "rows": [
+        [
+          "Receipt Month ii",
+          "Remaining Requests ii"
+        ],
+        [
+          "July 2026",
+          "1"
+        ],
+        [
+          "August 2026",
+          "548"
+        ],
+        [
+          "September 2026",
+          "3,975"
+        ]
+      ]
+    },
+    {
+      "heading": "Prevailing Wage Determination Processing Times",
+      "header": [
+        "PERM"
+      ],
+      "rows": [
+        [
+          "Receipt Month ii",
+          "Remaining Requests ii"
+        ],
+        [
+          "April 2026",
+          "8"
+        ],
+        [
+          "May 2026",
+          "36"
+        ],
+        [
+          "June 2026",
+          "3,532"
+        ],
+        [
+          "July 2026",
+          "15,959"
+        ],
+        [
+          "August 2026",
+          "14,980"
+        ],
+        [
+          "September 2026",
+          "14,519"
+        ]
+      ]
+    },
+    {
+      "heading": "PERM Processing Times (as of 10/31/2026)",
+      "header": [
+        "Determinations",
+        "Reporting Period",
+        "Calendar Days"
+      ],
+      "rows": [
+        [
+          "",
+          "Last 30 Days",
+          "300"
+        ],
+        [
+          "Analyst Review",
+          "Last 90 Days",
+          "315"
+        ],
+        [
+          "",
+          "Last 180 Days",
+          "360"
+        ]
+      ]
+    },
+    {
+      "heading": "I. Issuance of Initial Notices of Acceptance (NOA) or Deficiency (NOD)",
+      "header": [
+        "Case Receipt Week",
+        "Total Cases Submitted 1",
+        "Total Cases Issued First NOA or NOD",
+        "Percent Receipt Week Issued NOA or NOD"
+      ],
+      "rows": [
+        [
+          "MOST RECENT WEEK COMPLETED"
+        ],
+        [
+          "October 25 - October 31",
+          "402",
+          "402",
+          "100%"
+        ],
+        [
+          "CURRENT PROCESSING STATUS"
+        ],
+        [
+          "November 1 - November 31",
+          "455",
+          "314",
+          "75.1%"
+        ]
+      ]
+    },
+    {
+      "heading": "II. Average Case Processing Times (measured in calendar days)",
+      "header": [
+        "Processing Activity",
+        "Total Cases",
+        "Current Status"
+      ],
+      "rows": [
+        [
+          "Average Number of Days to Process Complete 2 Cases (cumulative over the last 2 weeks)",
+          "553",
+          "18 Calendar Days"
+        ],
+        [
+          "Average Number of Days to Process Incomplete Cases (cumulative over the last 2 weeks)",
+          "165",
+          "35 Calendar Days"
+        ]
+      ]
+    },
+    {
+      "heading": "Applications Received for Requested Date of Need from January 1, 2026 through September 30, 2026",
+      "header": [
+        "",
+        "STEP 1",
+        "STEP 2",
+        "STEP 3",
+        "STEP 4"
+      ],
+      "rows": [
+        [
+          "Filing Window",
+          "Total Cases SubMitted 3 & Positions Requested",
+          "Total Cases Issued NOA or NOD",
+          "Percent Issued a First NOA or NOD",
+          "Total Cases Pending - Post NOA or NOD Issued 4",
+          "Total Cases Issued Final Decision & Positions Certified"
+        ],
+        [
+          "Jan 2026",
+          "8,487 (133,006 Workers)",
+          "8,487",
+          "100.0%",
+          "2 (46 Workers)",
+          "8,485 (121,558 Workers)"
+        ],
+        [
+          "Feb 2026",
+          "1,477 (19,989 Workers)",
+          "1,477",
+          "100.0%",
+          "--",
+          "1,477 (17,236 Workers)"
+        ],
+        [
+          "Mar 2026",
+          "252 (3,942 Workers)",
+          "252",
+          "100.0%",
+          "--",
+          "252 (3,017 Workers)"
+        ],
+        [
+          "April 2026",
+          "119 (1,720 Workers)",
+          "119",
+          "100.0%",
+          "--",
+          "119 (738 Workers)"
+        ],
+        [
+          "May 2026",
+          "74 (893 Workers)",
+          "74",
+          "100.0%",
+          "--",
+          "74 (643 Workers)"
+        ],
+        [
+          "Jun 2026",
+          "72 (805 Workers)",
+          "72",
+          "100.0%",
+          "--",
+          "72 (699 Workers)"
+        ],
+        [
+          "Jul 2026",
+          "6 (208 Workers)",
+          "6",
+          "100.0%",
+          "--",
+          "6 (19 Workers)"
+        ],
+        [
+          "Total Cases Issued Final Decision and Positions Certified (for FY 2026 Second Half Visa Cap)",
+          "10,479 (143,891 Workers)"
+        ]
+      ]
+    },
+    {
+      "heading": "Applications Received for Requested Date of Need from October 1, 2026 through March 31, 2027",
+      "header": [
+        "",
+        "STEP 1",
+        "STEP 2",
+        "STEP 3",
+        "STEP 4"
+      ],
+      "rows": [
+        [
+          "Filing Window",
+          "Total Cases Submitted 3 & Positions Requested",
+          "Total Cases Issued NOA or NOD",
+          "Percent Issued a First NOA or NOD",
+          "Total Cases Pending - Post NOA or NOD Issued 4",
+          "Total Cases Issued Final Decision & Positions Certified"
+        ],
+        [
+          "Jul 3 - 5 Group A",
+          "1,806 (33,927 Workers)",
+          "1,806",
+          "100.0%",
+          "1 (120 Workers)",
+          "1,805 (31,438 Workers)"
+        ],
+        [
+          "Jul 3 - 5 Group B",
+          "714 (15,715 Workers)",
+          "714",
+          "100.0%",
+          "1 (60 Workers)",
+          "713 (14,318 Workers)"
+        ],
+        [
+          "July 2026",
+          "324 (6,419 Workers)",
+          "324",
+          "100.0%",
+          "--",
+          "324 (5,914 Workers)"
+        ],
+        [
+          "August 2026",
+          "488 (8,902 Workers)",
+          "488",
+          "100.0%",
+          "5 (594 Workers)",
+          "483 (6,902 Workers)"
+        ],
+        [
+          "September 2026",
+          "282 (4,409 Workers)",
+          "282",
+          "100.0%",
+          "18 (285 Workers)",
+          "264 (3,543 Workers)"
+        ],
+        [
+          "October 2026",
+          "303 (10,186 Workers)",
+          "296",
+          "98.0%",
+          "173 (5,779 Workers)",
+          "123 (3,905 Workers)"
+        ],
+        [
+          "November 2026",
+          "410 (10,427 Workers)",
+          "--",
+          "--",
+          "--",
+          "--"
+        ],
+        [
+          "Total Cases Issued Final Decision and Positions Certified (for FY 2027 First Half Visa Cap)",
+          "3,327 (58,632 Workers)"
+        ]
+      ]
+    },
+    {
+      "heading": "CW-1 Processing Times (updated as of close of business 11/07/2026)",
+      "header": [
+        "",
+        "STEP 1",
+        "STEP 2",
+        "STEP 3",
+        "STEP 4"
+      ],
+      "rows": [
+        [
+          "Month of Receipt",
+          "Total Cases Submitted 6 & Positions Requested",
+          "Total Cases Issued NOA or NOD",
+          "Percent Issued a First NOA or NOD",
+          "Total Cases Pending - Post NOA or NOD Issued 7",
+          "Total Cases Issued Final Decision & Positions Certified"
+        ],
+        [
+          "February",
+          "98 (417 Workers)",
+          "98",
+          "100.0%",
+          "1 (5 Workers)",
+          "97 (331 Workers)"
+        ],
+        [
+          "March",
+          "112 (484 Workers)",
+          "112",
+          "100.0%",
+          "1 (3 Workers)",
+          "111 (372 Workers)"
+        ],
+        [
+          "April",
+          "314 (1,208 Workers)",
+          "314",
+          "100.0%",
+          "2 (6 Workers)",
+          "312 (1,044 Workers)"
+        ],
+        [
+          "May",
+          "301 (1,089 Workers)",
+          "301",
+          "100.0%",
+          "10 (87 Workers)",
+          "291 (898 Workers)"
+        ],
+        [
+          "June",
+          "349 (1,621 Workers)",
+          "349",
+          "100.0%",
+          "5 (43 Workers)",
+          "344 (1,225 Workers)"
+        ],
+        [
+          "July",
+          "93 (340 Workers)",
+          "93",
+          "100.0%",
+          "10 (60 Workers)",
+          "83 (189 Workers)"
+        ],
+        [
+          "August",
+          "127 (494 Workers)",
+          "127",
+          "100.0%",
+          "27 (186 Workers)",
+          "100 (260 Workers)"
+        ],
+        [
+          "September",
+          "134 (574 Workers)",
+          "134",
+          "100.0%",
+          "44 (221 Workers)",
+          "90 (319 Workers)"
+        ],
+        [
+          "October",
+          "158 (708 Workers)",
+          "158",
+          "93.8%",
+          "140 (623 Workers)",
+          "18 (48 Workers)"
+        ]
+      ]
+    },
+    {
+      "heading": "Types of Applications",
+      "header": [
+        "",
+        "STEP 1",
+        "STEP 2",
+        "STEP 3",
+        "STEP 4"
+      ],
+      "rows": [
+        [
+          "Application Type",
+          "Total Cases Submitted 6 & Positions Requested",
+          "Total Cases Issued NOA or NOD",
+          "Percent Issued a First NOA or NOD",
+          "Total Cases Pending - Post NOA or NOD Issued 7",
+          "Total Cases Issued Final Decision & Positions Certified"
+        ],
+        [
+          "New CW-1 Visas 8",
+          "915 (4,361 Workers)",
+          "908",
+          "99.2%",
+          "171 (789 Workers)",
+          "737 (2,703 Workers)"
+        ],
+        [
+          "Renewal of CW-1 Visas 9",
+          "1,240 (4,613 Workers)",
+          "1,239",
+          "99.9%",
+          "114 (586 Workers)",
+          "1,125 (3,408 Workers)"
+        ],
+        [
+          "TOTALS",
+          "2,155 (8,974 Workers)",
+          "2,147",
+          "99.6%",
+          "285 (1,375 Workers)",
+          "1,862 (6,111 Workers)"
+        ]
+      ]
+    }
+  ],
+  "as_of": "9/30/2026",
+  "url": "https://flag.dol.gov/processingtimes",
+  "meta": {
+    "generated_at": "2026-11-09T21:50:05+00:00",
+    "sample": false,
+    "source_url": "https://flag.dol.gov/processingtimes"
+  }
+}

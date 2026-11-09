@@ -1,0 +1,538 @@
+{
+  "meta": {
+    "generated_at": "2026-11-09T21:50:20+00:00",
+    "sample": false
+  },
+  "items": [
+    {
+      "date": "2026-10-13",
+      "type": "comments_close",
+      "label": "Public comments close",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-16313",
+      "title": "Mandatory Electronic Filing (e-Filing)",
+      "tags": [],
+      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16313/mandatory-electronic-filing-e-filing",
+      "source": "Federal Register",
+      "kind": "final_rule"
+    },
+    {
+      "date": "2026-10-14",
+      "type": "effective",
+      "label": "Takes effect",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-20955",
+      "title": "Removal of Automatic Extensions for Certain Employment Authorization Documents",
+      "tags": [
+        "gc"
+      ],
+      "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20955/removal-of-automatic-extensions-for-certain-employment-authorization-documents",
+      "source": "Federal Register",
+      "kind": "final_rule"
+    },
+    {
+      "date": "2026-10-14",
+      "type": "comments_close",
+      "label": "Public comments close",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-18736",
+      "title": "Agency Information Collection Activities; Revision of a Currently Approved Collection: Petition To Remove the Conditions on Residence",
+      "tags": [
+        "citizenship"
+      ],
+      "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18736/agency-information-collection-activities-revision-of-a-currently-approved-collection-petition-to",
+      "source": "Federal Register",
+      "kind": "notice"
+    },
+    {
+      "date": "2026-10-19",
+      "type": "comments_close",
+      "label": "Public comments close",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-19026",
+      "title": "Agency Information Collection Activities; Extension, Without Change, of a Currently Approved Collection: Collection of Qualitative Feedback Through Focus Groups",
+      "tags": [
+        "citizenship"
+      ],
+      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19026/agency-information-collection-activities-extension-without-change-of-a-currently-approved-collection",
+      "source": "Federal Register",
+      "kind": "notice"
+    },
+    {
+      "date": "2026-10-30",
+      "type": "effective",
+      "label": "Takes effect",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-21880",
+      "title": "Suspension of the Commonwealth of the Northern Mariana Islands (CNMI) Economic Vitality & Security Travel Authorization Program (EVS-TAP)",
+      "tags": [
+        "travel"
+      ],
+      "url": "https://www.federalregister.gov/documents/2026/10/27/2026-21880/suspension-of-the-commonwealth-of-the-northern-mariana-islands-cnmi-economic-vitality-and-security",
+      "source": "Federal Register",
+      "kind": "notice"
+    },
+    {
+      "date": "2026-11-09",
+      "type": "comments_close",
+      "label": "Public comments close",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-20660",
+      "title": "Optional Practical Training Fees",
+      "tags": [
+        "fees",
+        "students"
+      ],
+      "url": "https://www.federalregister.gov/documents/2026/10/08/2026-20660/optional-practical-training-fees",
+      "source": "Federal Register",
+      "kind": "proposed_rule"
+    },
+    {
+      "date": "2026-11-10",
+      "type": "comments_close",
+      "label": "Public comments close",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-18631",
+      "title": "Eliminating the Discretionary 60-Day Grace Period",
+      "tags": [],
+      "url": "https://www.federalregister.gov/documents/2026/09/11/2026-18631/eliminating-the-discretionary-60-day-grace-period",
+      "source": "Federal Register",
+      "kind": "proposed_rule"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "comments_close",
+      "label": "Public comments close",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-20941",
+      "title": "Removing Deference to Prior USCIS Determinations of Eligibility",
+      "tags": [
+        "citizenship"
+      ],
+      "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20941/removing-deference-to-prior-uscis-determinations-of-eligibility",
+      "source": "Federal Register",
+      "kind": "proposed_rule"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "comments_close",
+      "label": "Public comments close",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-18736",
+      "title": "Agency Information Collection Activities; Revision of a Currently Approved Collection: Petition To Remove the Conditions on Residence",
+      "tags": [
+        "citizenship"
+      ],
+      "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18736/agency-information-collection-activities-revision-of-a-currently-approved-collection-petition-to",
+      "source": "Federal Register",
+      "kind": "notice"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "comments_close",
+      "label": "Public comments close",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-18724",
+      "title": "Agency Information Collection Activities; Extension, Without Change, of a Currently Approved Collection: Application for Certificate of Citizenship",
+      "tags": [
+        "citizenship"
+      ],
+      "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18724/agency-information-collection-activities-extension-without-change-of-a-currently-approved-collection",
+      "source": "Federal Register",
+      "kind": "notice"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "comments_close",
+      "label": "Public comments close",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-18722",
+      "title": "Agency Information Collection Activities; Extension, Without Change, of a Currently Approved Collection: Application for Regional Center Designation; Application for Approval of an Investment in a Commercial Enterprise; Regional Center Annual Statement; Bona Fides of Persons Involved With Regional Center Program; Registration for Direct and Third-Party Promoters",
+      "tags": [
+        "citizenship"
+      ],
+      "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18722/agency-information-collection-activities-extension-without-change-of-a-currently-approved-collection",
+      "source": "Federal Register",
+      "kind": "notice"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "comments_close",
+      "label": "Public comments close",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-18721",
+      "title": "Agency Information Collection Activities; Extension, Without Change, of a Currently Approved Collection: Petition for Qualifying Family Member of a U-1 Nonimmigrant",
+      "tags": [
+        "citizenship"
+      ],
+      "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18721/agency-information-collection-activities-extension-without-change-of-a-currently-approved-collection",
+      "source": "Federal Register",
+      "kind": "notice"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "comments_close",
+      "label": "Public comments close",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-18720",
+      "title": "Agency Information Collection Activities; Extension, Without Change, of a Currently Approved Collection: Application for Suspension of Deportation or Special Rule Cancellation of Removal (NACARA)",
+      "tags": [
+        "citizenship"
+      ],
+      "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18720/agency-information-collection-activities-extension-without-change-of-a-currently-approved-collection",
+      "source": "Federal Register",
+      "kind": "notice"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "comments_close",
+      "label": "Public comments close",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-18714",
+      "title": "Agency Information Collection Activities; Extension, Without Change, of a Currently Approved Collection: Request for Hearing on a Decision in Naturalization Proceedings Under Section 336",
+      "tags": [
+        "citizenship"
+      ],
+      "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18714/agency-information-collection-activities-extension-without-change-of-a-currently-approved-collection",
+      "source": "Federal Register",
+      "kind": "notice"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "comments_close",
+      "label": "Public comments close",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-18712",
+      "title": "Agency Information Collection Activities; Extension, Without Change, of a Currently Approved Collection: Consideration of Deferred Action for Childhood Arrivals",
+      "tags": [
+        "citizenship"
+      ],
+      "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18712/agency-information-collection-activities-extension-without-change-of-a-currently-approved-collection",
+      "source": "Federal Register",
+      "kind": "notice"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "comments_close",
+      "label": "Public comments close",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-18709",
+      "title": "Agency Information Collection Activities; Extension, Without Change, of a Currently Approved Collection: Application for Employment Authorization for Abused Nonimmigrant Spouse",
+      "tags": [
+        "citizenship",
+        "family",
+        "gc"
+      ],
+      "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18709/agency-information-collection-activities-extension-without-change-of-a-currently-approved-collection",
+      "source": "Federal Register",
+      "kind": "notice"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "comments_close",
+      "label": "Public comments close",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-18708",
+      "title": "Agency Information Collection Activities; Extension, Without Change, of a Currently Approved Collection: Application To Adjust Status From Temporary to Permanent Resident",
+      "tags": [
+        "citizenship",
+        "gc"
+      ],
+      "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18708/agency-information-collection-activities-extension-without-change-of-a-currently-approved-collection",
+      "source": "Federal Register",
+      "kind": "notice"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "comments_close",
+      "label": "Public comments close",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-18703",
+      "title": "Agency Information Collection Activities; Extension, Without Change, of a Currently Approved Collection: Application for Waiver of Grounds of Inadmissibility Under Sections 245A or 210 of the Immigration and Nationality Act",
+      "tags": [
+        "citizenship"
+      ],
+      "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18703/agency-information-collection-activities-extension-without-change-of-a-currently-approved-collection",
+      "source": "Federal Register",
+      "kind": "notice"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "comments_close",
+      "label": "Public comments close",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-18692",
+      "title": "Agency Information Collection Activities; Revision of a Currently Approved Collection: Application for Waiver of Grounds of Inadmissibility",
+      "tags": [
+        "citizenship"
+      ],
+      "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18692/agency-information-collection-activities-revision-of-a-currently-approved-collection-application-for",
+      "source": "Federal Register",
+      "kind": "notice"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "comments_close",
+      "label": "Public comments close",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-18689",
+      "title": "Agency Information Collection Activities; Extension, Without Change, of a Currently Approved Collection: Interagency Record of Request A, G, or NATO Dependent Employment Authorization or Change/Adjustment To/From A, G, or NATO Status",
+      "tags": [
+        "citizenship",
+        "gc"
+      ],
+      "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18689/agency-information-collection-activities-extension-without-change-of-a-currently-approved-collection",
+      "source": "Federal Register",
+      "kind": "notice"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "comments_close",
+      "label": "Public comments close",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-18687",
+      "title": "Agency Information Collection Activities; Revision of a Currently Approved Collection: Immigrant Petition by Standalone Investor, Immigrant Petition by Regional Center Investor",
+      "tags": [
+        "citizenship"
+      ],
+      "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18687/agency-information-collection-activities-revision-of-a-currently-approved-collection-immigrant",
+      "source": "Federal Register",
+      "kind": "notice"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "comments_close",
+      "label": "Public comments close",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-18686",
+      "title": "Agency Information Collection Activities; Revision of a Currently Approved Collection: Petition for Amerasian, Widow(er), or Special Immigrant",
+      "tags": [
+        "citizenship"
+      ],
+      "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18686/agency-information-collection-activities-revision-of-a-currently-approved-collection-petition-for",
+      "source": "Federal Register",
+      "kind": "notice"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "comments_close",
+      "label": "Public comments close",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-18684",
+      "title": "Agency Information Collection Activities; Extension, Without Change, of a Currently Approved Collection: Application for Permission To Reapply for Admission Into the United States After Deportation or Removal",
+      "tags": [
+        "citizenship"
+      ],
+      "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18684/agency-information-collection-activities-extension-without-change-of-a-currently-approved-collection",
+      "source": "Federal Register",
+      "kind": "notice"
+    },
+    {
+      "date": "2026-11-13",
+      "type": "comments_close",
+      "label": "Public comments close",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-18680",
+      "title": "Agency Information Collection Activities; Extension, Without Change, of a Currently Approved Collection: Nonimmigrant Petition Based on Blanket L Petition",
+      "tags": [
+        "citizenship"
+      ],
+      "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18680/agency-information-collection-activities-extension-without-change-of-a-currently-approved-collection",
+      "source": "Federal Register",
+      "kind": "notice"
+    },
+    {
+      "date": "2026-11-15",
+      "type": "visa_bulletin",
+      "label": "Next Visa Bulletin usually published around mid-month (for December)",
+      "confidence": "typical",
+      "tags": [
+        "gc",
+        "family"
+      ],
+      "url": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html",
+      "item_id": null,
+      "title": "Next Visa Bulletin usually published around mid-month (for December)",
+      "source": "Typical calendar",
+      "kind": "calendar"
+    },
+    {
+      "date": "2026-11-17",
+      "type": "comments_close",
+      "label": "Public comments close",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-19142",
+      "title": "60-Day Notice of Proposed Information Collection: DS-864E, Request for Exemption From Immigrant Visa Applicant's Affidavit of Support",
+      "tags": [
+        "gc"
+      ],
+      "url": "https://www.federalregister.gov/documents/2026/09/18/2026-19142/60-day-notice-of-proposed-information-collection-ds-864e-request-for-exemption-from-immigrant-visa",
+      "source": "Federal Register",
+      "kind": "notice"
+    },
+    {
+      "date": "2026-11-27",
+      "type": "comments_close",
+      "label": "Public comments close",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-19756",
+      "title": "Extension, Without Change, of a Currently Approved Collection: Biographic Information (Registration)",
+      "tags": [
+        "citizenship"
+      ],
+      "url": "https://www.federalregister.gov/documents/2026/09/28/2026-19756/extension-without-change-of-a-currently-approved-collection-biographic-information-registration",
+      "source": "Federal Register",
+      "kind": "notice"
+    },
+    {
+      "date": "2026-11-30",
+      "type": "comments_close",
+      "label": "Public comments close",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-22139",
+      "title": "Agency Information Collection Activities; New Collection",
+      "tags": [
+        "citizenship"
+      ],
+      "url": "https://www.federalregister.gov/documents/2026/10/30/2026-22139/agency-information-collection-activities-new-collection",
+      "source": "Federal Register",
+      "kind": "notice"
+    },
+    {
+      "date": "2026-11-30",
+      "type": "effective",
+      "label": "Takes effect",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-20016",
+      "title": "U.S. Citizenship and Immigration Services Employment-Based Immigrant Visa, Fifth Preference (EB-5) Fee Rule",
+      "tags": [
+        "citizenship",
+        "fees",
+        "gc"
+      ],
+      "url": "https://www.federalregister.gov/documents/2026/09/30/2026-20016/us-citizenship-and-immigration-services-employment-based-immigrant-visa-fifth-preference-eb-5-fee",
+      "source": "Federal Register",
+      "kind": "final_rule"
+    },
+    {
+      "date": "2026-12-02",
+      "type": "comments_close",
+      "label": "Public comments close",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-22320",
+      "title": "Agency Information Collection Activities; Extension, Without Change, of a Currently Approved Collection: Application for Free Training for Civics and Citizenship Teachers of Adults; Civics and Citizenship Toolkit",
+      "tags": [
+        "citizenship"
+      ],
+      "url": "https://www.federalregister.gov/documents/2026/11/02/2026-22320/agency-information-collection-activities-extension-without-change-of-a-currently-approved-collection",
+      "source": "Federal Register",
+      "kind": "notice"
+    },
+    {
+      "date": "2026-12-07",
+      "type": "comments_close",
+      "label": "Public comments close",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-20422",
+      "title": "Agency Information Collection Activities; Extension, Without Change, of a Currently Approved Collection: Application To Replace Permanent Resident Card",
+      "tags": [
+        "citizenship",
+        "gc"
+      ],
+      "url": "https://www.federalregister.gov/documents/2026/10/06/2026-20422/agency-information-collection-activities-extension-without-change-of-a-currently-approved-collection",
+      "source": "Federal Register",
+      "kind": "notice"
+    },
+    {
+      "date": "2026-12-22",
+      "type": "comments_close",
+      "label": "Public comments close",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-21698",
+      "title": "Agency Information Collection Activities; Extension, Without Change, of a Currently Approved Collection: Application To Register Permanent Residence or Adjust Status",
+      "tags": [
+        "citizenship"
+      ],
+      "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21698/agency-information-collection-activities-extension-without-change-of-a-currently-approved-collection",
+      "source": "Federal Register",
+      "kind": "notice"
+    },
+    {
+      "date": "2026-12-22",
+      "type": "comments_close",
+      "label": "Public comments close",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-21684",
+      "title": "Agency Information Collection Activities; Revision of a Currently Approved Collection: Application for Travel Documents, Parole Documents, and Arrival/Departure Records",
+      "tags": [
+        "citizenship",
+        "humanitarian",
+        "travel"
+      ],
+      "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21684/agency-information-collection-activities-revision-of-a-currently-approved-collection-application-for",
+      "source": "Federal Register",
+      "kind": "notice"
+    },
+    {
+      "date": "2027-03-01",
+      "type": "registration_opens",
+      "label": "H-1B cap registration usually opens in March (exact dates announced by USCIS)",
+      "confidence": "typical",
+      "tags": [
+        "h1b"
+      ],
+      "url": "https://www.uscis.gov/working-in-the-united-states/temporary-workers/h-1b-specialty-occupations/h-1b-electronic-registration-process",
+      "item_id": null,
+      "title": "H-1B cap registration usually opens in March (exact dates announced by USCIS)",
+      "source": "Typical calendar",
+      "kind": "calendar"
+    },
+    {
+      "date": "2027-10-01",
+      "type": "fiscal_year",
+      "label": "New fiscal year: new green card numbers and H-1B cap employment start date",
+      "confidence": "typical",
+      "tags": [
+        "gc",
+        "h1b"
+      ],
+      "url": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html",
+      "item_id": null,
+      "title": "New fiscal year: new green card numbers and H-1B cap employment start date",
+      "source": "Typical calendar",
+      "kind": "calendar"
+    }
+  ]
+}

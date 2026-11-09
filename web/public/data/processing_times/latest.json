@@ -1,0 +1,2482 @@
+{
+  "release": {
+    "tag": "2026-11-09",
+    "url": "https://github.com/jzebedee/uscis/releases/tag/2026-11-09"
+  },
+  "forms": [
+    {
+      "form": "I-485",
+      "label": "Adjust status to permanent resident",
+      "entries": [
+        {
+          "office_code": "ABQ",
+          "office": "Albuquerque NM",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 13.5,
+          "high_months": 28.0
+        },
+        {
+          "office_code": "AGA",
+          "office": "Agana GU",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 21.5,
+          "high_months": 38.0
+        },
+        {
+          "office_code": "ALB",
+          "office": "Albany NY",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 15.0,
+          "high_months": 26.5
+        },
+        {
+          "office_code": "ANC",
+          "office": "Anchorage AK",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 9.5,
+          "high_months": 29.5
+        },
+        {
+          "office_code": "ATL",
+          "office": "Atlanta GA",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 16.5,
+          "high_months": 31.0
+        },
+        {
+          "office_code": "BAL",
+          "office": "Baltimore MD",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 19.0,
+          "high_months": 32.5
+        },
+        {
+          "office_code": "BNY",
+          "office": "Brooklyn NY",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 19.0,
+          "high_months": 40.0
+        },
+        {
+          "office_code": "BOI",
+          "office": "Boise ID",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 18.0,
+          "high_months": 37.5
+        },
+        {
+          "office_code": "BOS",
+          "office": "Boston MA",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 13.5,
+          "high_months": 28.5
+        },
+        {
+          "office_code": "BUF",
+          "office": "Buffalo NY",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 10.0,
+          "high_months": 17.5
+        },
+        {
+          "office_code": "CHA",
+          "office": "Charlotte Amalie VI",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 13.5,
+          "high_months": 41.5
+        },
+        {
+          "office_code": "CHI",
+          "office": "Chicago IL",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 18.5,
+          "high_months": 40.5
+        },
+        {
+          "office_code": "CHL",
+          "office": "Charleston SC",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 13.5,
+          "high_months": 21.5
+        },
+        {
+          "office_code": "CHR",
+          "office": "Christiansted VI",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 18.0,
+          "high_months": 37.5
+        },
+        {
+          "office_code": "CIN",
+          "office": "Cincinnati OH",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 14.0,
+          "high_months": 25.0
+        },
+        {
+          "office_code": "CLE",
+          "office": "Cleveland OH",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 15.5,
+          "high_months": 30.5
+        },
+        {
+          "office_code": "CLM",
+          "office": "Columbus OH",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 14.0,
+          "high_months": 35.5
+        },
+        {
+          "office_code": "CLT",
+          "office": "Charlotte NC",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 18.0,
+          "high_months": 31.0
+        },
+        {
+          "office_code": "DAL",
+          "office": "Dallas TX",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 13.5,
+          "high_months": 29.0
+        },
+        {
+          "office_code": "DEN",
+          "office": "Denver CO",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 22.5,
+          "high_months": 39.5
+        },
+        {
+          "office_code": "DET",
+          "office": "Detroit MI",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 14.5,
+          "high_months": 34.5
+        },
+        {
+          "office_code": "DSM",
+          "office": "Des Moines IA",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 14.5,
+          "high_months": 22.5
+        },
+        {
+          "office_code": "ELP",
+          "office": "El Paso TX",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 12.5,
+          "high_months": 22.5
+        },
+        {
+          "office_code": "FOD",
+          "office": "All Field Offices",
+          "subtype": "131A",
+          "subtype_label": "Employment-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 9.5,
+          "high_months": 19.0
+        },
+        {
+          "office_code": "FOD",
+          "office": "All Field Offices",
+          "subtype": "131B",
+          "subtype_label": "Based on grant of asylum more than 1 year ago",
+          "published": "October 19, 2026",
+          "low_months": 34.5,
+          "high_months": 43.5
+        },
+        {
+          "office_code": "FOD",
+          "office": "All Field Offices",
+          "subtype": "131C",
+          "subtype_label": "Based on refugee admission more than 1 year ago",
+          "published": "October 19, 2026",
+          "low_months": 30.0,
+          "high_months": 60.0
+        },
+        {
+          "office_code": "FRE",
+          "office": "Fresno CA",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 16.0,
+          "high_months": 37.5
+        },
+        {
+          "office_code": "FSA",
+          "office": "Fort Smith AR",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 15.0,
+          "high_months": 21.0
+        },
+        {
+          "office_code": "GRR",
+          "office": "Greer SC",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 15.0,
+          "high_months": 20.5
+        },
+        {
+          "office_code": "HAR",
+          "office": "Hartford CT",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 14.5,
+          "high_months": 31.5
+        },
+        {
+          "office_code": "HEL",
+          "office": "Helena MT",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 9.5,
+          "high_months": 14.5
+        },
+        {
+          "office_code": "HHW",
+          "office": "Honolulu HI",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 18.5,
+          "high_months": 37.5
+        },
+        {
+          "office_code": "HIA",
+          "office": "Hialeah FL",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 14.0,
+          "high_months": 27.5
+        },
+        {
+          "office_code": "HLG",
+          "office": "Harlingen TX",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 11.0,
+          "high_months": 23.0
+        },
+        {
+          "office_code": "HOU",
+          "office": "Houston TX",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 18.0,
+          "high_months": 36.0
+        },
+        {
+          "office_code": "IMP",
+          "office": "Imperial CA",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 12.5,
+          "high_months": 33.0
+        },
+        {
+          "office_code": "INP",
+          "office": "Indianapolis IN",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 22.0,
+          "high_months": 35.0
+        },
+        {
+          "office_code": "JAC",
+          "office": "Jacksonville FL",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 17.0,
+          "high_months": 32.5
+        },
+        {
+          "office_code": "KAN",
+          "office": "Kansas City MO",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 14.0,
+          "high_months": 27.0
+        },
+        {
+          "office_code": "KND",
+          "office": "Kendall FL",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 14.5,
+          "high_months": 29.0
+        },
+        {
+          "office_code": "LAC",
+          "office": "Los Angeles County CA",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 17.5,
+          "high_months": 38.5
+        },
+        {
+          "office_code": "LAW",
+          "office": "Lawrence MA",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 20.5,
+          "high_months": 39.5
+        },
+        {
+          "office_code": "LNY",
+          "office": "Long Island NY",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 16.5,
+          "high_months": 33.0
+        },
+        {
+          "office_code": "LOS",
+          "office": "Los Angeles CA",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 15.0,
+          "high_months": 37.0
+        },
+        {
+          "office_code": "LOU",
+          "office": "Louisville KY",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 12.5,
+          "high_months": 24.5
+        },
+        {
+          "office_code": "LVG",
+          "office": "Las Vegas NV",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 19.0,
+          "high_months": 36.0
+        },
+        {
+          "office_code": "MAN",
+          "office": "Manchester NH",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 13.0,
+          "high_months": 21.5
+        },
+        {
+          "office_code": "MEM",
+          "office": "Memphis TN",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 22.5,
+          "high_months": 33.0
+        },
+        {
+          "office_code": "MGA",
+          "office": "Montgomery AL",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 13.5,
+          "high_months": 21.5
+        },
+        {
+          "office_code": "MIA",
+          "office": "Miami FL",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 21.5,
+          "high_months": 40.0
+        },
+        {
+          "office_code": "MIL",
+          "office": "Milwaukee WI",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 15.5,
+          "high_months": 32.5
+        },
+        {
+          "office_code": "MTL",
+          "office": "Mount Laurel NJ",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 21.5,
+          "high_months": 33.5
+        },
+        {
+          "office_code": "NEW",
+          "office": "Newark NJ",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 22.0,
+          "high_months": 38.0
+        },
+        {
+          "office_code": "NJC",
+          "office": "Cranbury NJ",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 17.0,
+          "high_months": 34.5
+        },
+        {
+          "office_code": "NOL",
+          "office": "New Orleans LA",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 21.0,
+          "high_months": 36.5
+        },
+        {
+          "office_code": "NOR",
+          "office": "Norfolk VA",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 19.5,
+          "high_months": 41.0
+        },
+        {
+          "office_code": "NTN",
+          "office": "Nashville TN",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 13.5,
+          "high_months": 23.5
+        },
+        {
+          "office_code": "NYC",
+          "office": "New York City NY",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 14.5,
+          "high_months": 33.5
+        },
+        {
+          "office_code": "OFM",
+          "office": "Fort Myers FL",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 20.0,
+          "high_months": 29.5
+        },
+        {
+          "office_code": "OKC",
+          "office": "Oklahoma City OK",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 20.5,
+          "high_months": 39.0
+        },
+        {
+          "office_code": "OKL",
+          "office": "Oakland Park FL",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 22.5,
+          "high_months": 39.0
+        },
+        {
+          "office_code": "OMA",
+          "office": "Omaha NE",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 12.0,
+          "high_months": 21.0
+        },
+        {
+          "office_code": "ORL",
+          "office": "Orlando FL",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 18.5,
+          "high_months": 33.0
+        },
+        {
+          "office_code": "PHI",
+          "office": "Philadelphia PA",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 15.0,
+          "high_months": 31.0
+        },
+        {
+          "office_code": "PHO",
+          "office": "Phoenix AZ",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 14.0,
+          "high_months": 24.5
+        },
+        {
+          "office_code": "PIT",
+          "office": "Pittsburgh PA",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 14.0,
+          "high_months": 27.0
+        },
+        {
+          "office_code": "POM",
+          "office": "Portland ME",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 22.5,
+          "high_months": 36.5
+        },
+        {
+          "office_code": "POO",
+          "office": "Portland OR",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 16.0,
+          "high_months": 37.0
+        },
+        {
+          "office_code": "PRO",
+          "office": "Providence RI",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 12.5,
+          "high_months": 21.0
+        },
+        {
+          "office_code": "QNS",
+          "office": "Queens NY",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 21.0,
+          "high_months": 40.5
+        },
+        {
+          "office_code": "RAL",
+          "office": "Raleigh NC",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 24.5,
+          "high_months": 40.0
+        },
+        {
+          "office_code": "REN",
+          "office": "Reno NV",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 18.0,
+          "high_months": 36.5
+        },
+        {
+          "office_code": "SAA",
+          "office": "Santa Ana CA",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 27.5,
+          "high_months": 43.5
+        },
+        {
+          "office_code": "SAC",
+          "office": "Sacramento CA",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 18.0,
+          "high_months": 39.0
+        },
+        {
+          "office_code": "SAJ",
+          "office": "San Juan PR",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 14.5,
+          "high_months": 30.0
+        },
+        {
+          "office_code": "SBD",
+          "office": "San Bernardino CA",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 19.0,
+          "high_months": 33.0
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "131A",
+          "subtype_label": "Employment-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 42.5,
+          "high_months": 48.5
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "131A-HRIFA",
+          "subtype_label": "All other applications",
+          "published": "October 19, 2026",
+          "low_months": 141.5,
+          "high_months": 141.5
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "131T",
+          "subtype_label": "Based on an approved T Visa",
+          "published": "October 19, 2026",
+          "low_months": 43.5,
+          "high_months": 47.5
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "131U",
+          "subtype_label": "Based on an approved U Visa",
+          "published": "October 19, 2026",
+          "low_months": 25.0,
+          "high_months": 28.0
+        },
+        {
+          "office_code": "SEA",
+          "office": "Seattle WA",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 36.0,
+          "high_months": 56.5
+        },
+        {
+          "office_code": "SFR",
+          "office": "San Francisco CA",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 18.5,
+          "high_months": 41.5
+        },
+        {
+          "office_code": "SFV",
+          "office": "San Fernando Valley CA",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 13.0,
+          "high_months": 38.5
+        },
+        {
+          "office_code": "SLC",
+          "office": "Salt Lake City UT",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 15.0,
+          "high_months": 21.5
+        },
+        {
+          "office_code": "SNA",
+          "office": "San Antonio TX",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 13.0,
+          "high_months": 24.5
+        },
+        {
+          "office_code": "SND",
+          "office": "San Diego CA",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 13.0,
+          "high_months": 31.5
+        },
+        {
+          "office_code": "SNJ",
+          "office": "San Jose CA",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 32.5,
+          "high_months": 43.0
+        },
+        {
+          "office_code": "SPM",
+          "office": "Minneapolis-St. Paul MN",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 16.5,
+          "high_months": 34.5
+        },
+        {
+          "office_code": "SPO",
+          "office": "Spokane WA",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 22.0,
+          "high_months": 60.5
+        },
+        {
+          "office_code": "STA",
+          "office": "Burlington VT",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 8.5,
+          "high_months": 12.5
+        },
+        {
+          "office_code": "STL",
+          "office": "Saint Louis MO",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 12.0,
+          "high_months": 25.0
+        },
+        {
+          "office_code": "TAM",
+          "office": "Tampa FL",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 17.0,
+          "high_months": 26.5
+        },
+        {
+          "office_code": "TUC",
+          "office": "Tucson AZ",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 8.5,
+          "high_months": 13.5
+        },
+        {
+          "office_code": "WAS",
+          "office": "Washington DC",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 18.0,
+          "high_months": 24.0
+        },
+        {
+          "office_code": "WIC",
+          "office": "Wichita KS",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 11.5,
+          "high_months": 28.5
+        },
+        {
+          "office_code": "WPB",
+          "office": "West Palm Beach FL",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 16.5,
+          "high_months": 29.0
+        },
+        {
+          "office_code": "YAK",
+          "office": "Yakima WA",
+          "subtype": "131A-FAM",
+          "subtype_label": "Family-Based adjustment applications",
+          "published": "October 19, 2026",
+          "low_months": 21.0,
+          "high_months": 57.5
+        }
+      ],
+      "low_months": 8.5,
+      "high_months": 141.5,
+      "published": "October 19, 2026"
+    },
+    {
+      "form": "I-765",
+      "label": "Work permit (EAD)",
+      "entries": [
+        {
+          "office_code": "NBC",
+          "office": "National Benefits Center",
+          "subtype": "147-C10",
+          "subtype_label": "Application for Suspension of Deportation/Sec.244/NACARA/Cancel of Removal [(c)(10)]",
+          "published": "October 19, 2026",
+          "low_months": 10.0,
+          "high_months": 24.0
+        },
+        {
+          "office_code": "NBC",
+          "office": "National Benefits Center",
+          "subtype": "147-C11",
+          "subtype_label": "Based on parole",
+          "published": "October 19, 2026",
+          "low_months": 13.5,
+          "high_months": 18.0
+        },
+        {
+          "office_code": "NBC",
+          "office": "National Benefits Center",
+          "subtype": "147-C18",
+          "subtype_label": "Alien with Final Order of Deportation Under an OSUP [(c)(18)]",
+          "published": "October 19, 2026",
+          "low_months": 16.5,
+          "high_months": 18.5
+        },
+        {
+          "office_code": "NBC",
+          "office": "National Benefits Center",
+          "subtype": "147-C9",
+          "subtype_label": "Based on a pending I-485 adjustment application [(c)(9)]",
+          "published": "October 19, 2026",
+          "low_months": 12.0,
+          "high_months": 16.5
+        },
+        {
+          "office_code": "NBC",
+          "office": "National Benefits Center",
+          "subtype": "147-OTH",
+          "subtype_label": "All other applications for employment authorization",
+          "published": "October 19, 2026",
+          "low_months": 10.5,
+          "high_months": 14.5
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "147-539C26",
+          "subtype_label": "Based on being an H-4 spouse of an H-1B nonimmigrant (filed with I-539 H4) [(c)(26)]",
+          "published": "October 19, 2026",
+          "low_months": 6.5,
+          "high_months": 10.0
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "147-A18",
+          "subtype_label": "Based on being an L-2 spouse of an L-1 nonimmigrant [(a)(18)]",
+          "published": "October 19, 2026",
+          "low_months": 18.0,
+          "high_months": 28.0
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "147-A3",
+          "subtype_label": "Based on being admitted as a Refugee [(a)(3)]",
+          "published": "October 19, 2026",
+          "low_months": 18.5,
+          "high_months": 21.5
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "147-A5",
+          "subtype_label": "Based on an approved asylum application [(a)(5)]",
+          "published": "October 19, 2026",
+          "low_months": 2.5,
+          "high_months": 17.0
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "147-C26",
+          "subtype_label": "Based on being an H-4 spouse of an H-1B nonimmigrant (Standalone; not filed with I-539 H4) [(c)(26)]",
+          "published": "October 19, 2026",
+          "low_months": 17.5,
+          "high_months": 19.0
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "147-C3",
+          "subtype_label": "Based on a request by a qualified F-1 academic student [(c)(3)]",
+          "published": "October 19, 2026",
+          "low_months": 5.0,
+          "high_months": 6.5
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "147-C8",
+          "subtype_label": "Based on a pending asylum application [(c)(8)] -renewal/replacement",
+          "published": "October 19, 2026",
+          "low_months": 18.5,
+          "high_months": 21.5
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "147-C8I",
+          "subtype_label": "Based on a pending asylum application [(c)(8)] – Initial Application",
+          "published": "October 19, 2026",
+          "low_months": 0.9,
+          "high_months": 1.0
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "147-C9",
+          "subtype_label": "Based on a pending I-485 adjustment application [(c)(9)]",
+          "published": "October 19, 2026",
+          "low_months": 12.5,
+          "high_months": 16.0
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "147-ELSAL",
+          "subtype_label": "Based on TPS for El Salvador [(c)(19), (a)(12)]",
+          "published": "October 19, 2026",
+          "low_months": 18.5,
+          "high_months": 19.5
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "147-OTH",
+          "subtype_label": "All other applications for employment authorization",
+          "published": "October 19, 2026",
+          "low_months": 16.0,
+          "high_months": 19.0
+        }
+      ],
+      "low_months": 0.9,
+      "high_months": 28.0,
+      "published": "October 19, 2026"
+    },
+    {
+      "form": "I-131",
+      "label": "Travel document / advance parole",
+      "entries": [
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "141A-RT",
+          "subtype_label": "Re-entry permit or refugee travel document",
+          "published": "October 19, 2026",
+          "low_months": 16.5,
+          "high_months": 21.5
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "141B-OTH",
+          "subtype_label": "Advance parole",
+          "published": "October 19, 2026",
+          "low_months": 26.5,
+          "high_months": 34.0
+        }
+      ],
+      "low_months": 16.5,
+      "high_months": 34.0,
+      "published": "October 19, 2026"
+    },
+    {
+      "form": "I-140",
+      "label": "Immigrant petition for alien worker",
+      "entries": [
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "136A-E11",
+          "subtype_label": "Extraordinary ability (E11)",
+          "published": "October 19, 2026",
+          "low_months": 32.5,
+          "high_months": 35.5
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "136A-E12",
+          "subtype_label": "Outstanding professor or researcher (E12)",
+          "published": "October 19, 2026",
+          "low_months": 15.0,
+          "high_months": 18.5
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "136A-E13",
+          "subtype_label": "Multinational executive or manager (E13)",
+          "published": "October 19, 2026",
+          "low_months": 27.5,
+          "high_months": 29.5
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "136A-E21",
+          "subtype_label": "Advanced degree or exceptional ability (E21)",
+          "published": "October 19, 2026",
+          "low_months": 3.0,
+          "high_months": 6.5
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "136A-E31",
+          "subtype_label": "Skilled worker or professional (E31; E32)",
+          "published": "October 19, 2026",
+          "low_months": 4.0,
+          "high_months": 8.0
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "136A-EW3",
+          "subtype_label": "Unskilled worker (EW3)",
+          "published": "October 19, 2026",
+          "low_months": 9.0,
+          "high_months": 15.0
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "136A-NIW",
+          "subtype_label": "Advanced degree or exceptional ability requesting a National Interest Waiver (NIW)",
+          "published": "October 19, 2026",
+          "low_months": 30.0,
+          "high_months": 33.0
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "136A-NUR",
+          "subtype_label": "Schedule A Nurses",
+          "published": "October 19, 2026",
+          "low_months": 25.5,
+          "high_months": 26.5
+        }
+      ],
+      "low_months": 3.0,
+      "high_months": 35.5,
+      "published": "October 19, 2026"
+    },
+    {
+      "form": "I-129",
+      "label": "Petition for nonimmigrant worker (H-1B, L-1)",
+      "entries": [
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "137-E",
+          "subtype_label": "E - Treaty traders and investors",
+          "published": "October 19, 2026",
+          "low_months": 20.0,
+          "high_months": 22.5
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "137-E3",
+          "subtype_label": "E3 - Specialty occupation workers from Australia",
+          "published": "October 19, 2026",
+          "low_months": 5.0,
+          "high_months": 7.5
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "137-H1B1",
+          "subtype_label": "H-1B - Specialty occupation - Visa to be issued abroad",
+          "published": "October 19, 2026",
+          "low_months": 11.0,
+          "high_months": 13.0
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "137-H1B2",
+          "subtype_label": "H-1B - Specialty occupation - Change of status in the U.S.",
+          "published": "October 19, 2026",
+          "low_months": 10.0,
+          "high_months": 11.5
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "137-H1B3",
+          "subtype_label": "H-1B - Specialty occupation - Extension of stay in the U.S.",
+          "published": "October 19, 2026",
+          "low_months": 11.5,
+          "high_months": 12.5
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "137-H2AN",
+          "subtype_label": "H-2A - Temporary agricultural workers - Named Beneficiary",
+          "published": "October 19, 2026",
+          "low_months": 0.5,
+          "high_months": 4.0
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "137-H2AU",
+          "subtype_label": "H-2A - Temporary agricultural workers - Unnamed Beneficiary",
+          "published": "October 19, 2026",
+          "low_months": 0.5,
+          "high_months": 4.0
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "137-H2B",
+          "subtype_label": "H-2B - Temporary nonagricultural workers",
+          "published": "October 19, 2026",
+          "low_months": 4.0,
+          "high_months": 8.0
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "137-H3",
+          "subtype_label": "H-3 - Temporary trainees",
+          "published": "October 19, 2026",
+          "low_months": 17.0,
+          "high_months": 19.5
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "137-L",
+          "subtype_label": "Intracompany transferees and blanket L",
+          "published": "October 19, 2026",
+          "low_months": 6.5,
+          "high_months": 10.5
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "137-O",
+          "subtype_label": "O - Extraordinary ability",
+          "published": "October 19, 2026",
+          "low_months": 14.5,
+          "high_months": 17.5
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "137-P",
+          "subtype_label": "P - Athletes, artists, and entertainers",
+          "published": "October 19, 2026",
+          "low_months": 13.0,
+          "high_months": 15.0
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "137-Q",
+          "subtype_label": "Q - Cultural exchange visitors",
+          "published": "October 19, 2026",
+          "low_months": 7.0,
+          "high_months": 19.5
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "137-R",
+          "subtype_label": "R - Religious occupation",
+          "published": "October 19, 2026",
+          "low_months": 9.5,
+          "high_months": 12.0
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "137-TN",
+          "subtype_label": "TN - United States-Mexico-Canada Agreement (USMCA, formerly NAFTA) professional",
+          "published": "October 19, 2026",
+          "low_months": 4.5,
+          "high_months": 7.0
+        }
+      ],
+      "low_months": 0.5,
+      "high_months": 22.5,
+      "published": "October 19, 2026"
+    },
+    {
+      "form": "I-539",
+      "label": "Extend or change status (H-4, F-1)",
+      "entries": [
+        {
+          "office_code": "NBC",
+          "office": "National Benefits Center",
+          "subtype": "139A-OTH",
+          "subtype_label": "All other change of status applications",
+          "published": "October 19, 2026",
+          "low_months": 0.2,
+          "high_months": 2.5
+        },
+        {
+          "office_code": "NBC",
+          "office": "National Benefits Center",
+          "subtype": "139B-OTH",
+          "subtype_label": "All other extension of stay applications",
+          "published": "October 19, 2026",
+          "low_months": 0.7,
+          "high_months": 2.5
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "139A-B",
+          "subtype_label": "Change of status to B nonimmigrant",
+          "published": "October 19, 2026",
+          "low_months": 8.0,
+          "high_months": 9.0
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "139A-FMJ",
+          "subtype_label": "Change of status to F or M student or J exchange visitor category",
+          "published": "October 19, 2026",
+          "low_months": 8.5,
+          "high_months": 10.0
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "139A-H",
+          "subtype_label": "Change of status to H4 dependents",
+          "published": "October 19, 2026",
+          "low_months": 10.5,
+          "high_months": 14.0
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "139A-L",
+          "subtype_label": "Change of status to L dependent",
+          "published": "October 19, 2026",
+          "low_months": 14.5,
+          "high_months": 16.0
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "139A-OTH",
+          "subtype_label": "All other change of status applications",
+          "published": "October 19, 2026",
+          "low_months": 14.0,
+          "high_months": 16.0
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "139AC-H",
+          "subtype_label": "Change of status to H4 dependent with I-765",
+          "published": "October 19, 2026",
+          "low_months": 7.5,
+          "high_months": 9.5
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "139B-B",
+          "subtype_label": "Extension of stay for B nonimmigrant",
+          "published": "October 19, 2026",
+          "low_months": 8.5,
+          "high_months": 10.0
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "139B-FMJ",
+          "subtype_label": "Extension of stay for F or M students and J exchange visitor category",
+          "published": "October 19, 2026",
+          "low_months": 6.5,
+          "high_months": 8.0
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "139B-H",
+          "subtype_label": "Extension of stay for H4 dependents",
+          "published": "October 19, 2026",
+          "low_months": 10.5,
+          "high_months": 13.5
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "139B-L",
+          "subtype_label": "Extension of stay for L dependents",
+          "published": "October 19, 2026",
+          "low_months": 8.5,
+          "high_months": 12.0
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "139B-OTH",
+          "subtype_label": "All other extension of stay applications",
+          "published": "October 19, 2026",
+          "low_months": 11.0,
+          "high_months": 15.5
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "139B-T",
+          "subtype_label": "Extension of stay for T nonimmigrant",
+          "published": "October 19, 2026",
+          "low_months": 22.0,
+          "high_months": 25.5
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "139B-U",
+          "subtype_label": "Extension of stay for U nonimmigrant",
+          "published": "October 19, 2026",
+          "low_months": 20.5,
+          "high_months": 23.0
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "139BC-H",
+          "subtype_label": "Extension of stay for H4 dependents with I-765",
+          "published": "October 19, 2026",
+          "low_months": 5.0,
+          "high_months": 9.0
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "139C",
+          "subtype_label": "Reinstatement to student status",
+          "published": "October 19, 2026",
+          "low_months": 15.0,
+          "high_months": 17.5
+        }
+      ],
+      "low_months": 0.2,
+      "high_months": 25.5,
+      "published": "October 19, 2026"
+    },
+    {
+      "form": "I-130",
+      "label": "Petition for alien relative",
+      "entries": [
+        {
+          "office_code": "FOD",
+          "office": "All Field Offices",
+          "subtype": "134A-F21",
+          "subtype_label": "Permanent resident filing for a spouse or child under 21",
+          "published": "October 19, 2026",
+          "low_months": 139.0,
+          "high_months": 300.5
+        },
+        {
+          "office_code": "FOD",
+          "office": "All Field Offices",
+          "subtype": "134A-IR",
+          "subtype_label": "U.S. citizen filing for a spouse, parent, or child under 21",
+          "published": "October 19, 2026",
+          "low_months": 83.5,
+          "high_months": 113.0
+        },
+        {
+          "office_code": "FOD",
+          "office": "All Field Offices",
+          "subtype": "134B-F11",
+          "subtype_label": "U.S. citizen filing for unmarried son/daughter 21 or older",
+          "published": "October 19, 2026",
+          "low_months": 195.0,
+          "high_months": 268.0
+        },
+        {
+          "office_code": "FOD",
+          "office": "All Field Offices",
+          "subtype": "134B-F24",
+          "subtype_label": "Permanent resident for unmarried son or daughter 21 or older",
+          "published": "October 19, 2026",
+          "low_months": 188.5,
+          "high_months": 340.0
+        },
+        {
+          "office_code": "FOD",
+          "office": "All Field Offices",
+          "subtype": "134B-F31",
+          "subtype_label": "\nU.S. citizen filing for a married son or daughter",
+          "published": "October 19, 2026",
+          "low_months": 110.5,
+          "high_months": 159.0
+        },
+        {
+          "office_code": "FOD",
+          "office": "All Field Offices",
+          "subtype": "134B-F41",
+          "subtype_label": "U.S. citizen filing for a brother or sister",
+          "published": "October 19, 2026",
+          "low_months": 286.5,
+          "high_months": 306.5
+        },
+        {
+          "office_code": "NBC",
+          "office": "National Benefits Center",
+          "subtype": "134A-F21",
+          "subtype_label": "Permanent resident filing for a spouse or child under 21",
+          "published": "October 19, 2026",
+          "low_months": 52.0,
+          "high_months": 56.5
+        },
+        {
+          "office_code": "NBC",
+          "office": "National Benefits Center",
+          "subtype": "134A-IR",
+          "subtype_label": "U.S. citizen filing for a spouse, parent, or child under 21",
+          "published": "October 19, 2026",
+          "low_months": 53.0,
+          "high_months": 58.0
+        },
+        {
+          "office_code": "NBC",
+          "office": "National Benefits Center",
+          "subtype": "134B-F11",
+          "subtype_label": "U.S. citizen filing for unmarried son/daughter 21 or older",
+          "published": "October 19, 2026",
+          "low_months": 52.5,
+          "high_months": 55.5
+        },
+        {
+          "office_code": "NBC",
+          "office": "National Benefits Center",
+          "subtype": "134B-F24",
+          "subtype_label": "Permanent resident for unmarried son or daughter 21 or older",
+          "published": "October 19, 2026",
+          "low_months": 53.5,
+          "high_months": 56.0
+        },
+        {
+          "office_code": "NBC",
+          "office": "National Benefits Center",
+          "subtype": "134B-F31",
+          "subtype_label": "\nU.S. citizen filing for a married son or daughter",
+          "published": "October 19, 2026",
+          "low_months": 53.5,
+          "high_months": 64.5
+        },
+        {
+          "office_code": "NBC",
+          "office": "National Benefits Center",
+          "subtype": "134B-F41",
+          "subtype_label": "U.S. citizen filing for a brother or sister",
+          "published": "October 19, 2026",
+          "low_months": 57.0,
+          "high_months": 66.5
+        }
+      ],
+      "low_months": 52.0,
+      "high_months": 340.0,
+      "published": "October 19, 2026"
+    },
+    {
+      "form": "I-751",
+      "label": "Remove conditions on residence",
+      "entries": [
+        {
+          "office_code": "FOD",
+          "office": "All Field Offices",
+          "subtype": "148A",
+          "subtype_label": "Removal of lawful permanent resident conditions (spouses of U.S. citizens and lawful permanent residents)",
+          "published": "October 19, 2026",
+          "low_months": 36.0,
+          "high_months": 58.5
+        }
+      ],
+      "low_months": 36.0,
+      "high_months": 58.5,
+      "published": "October 19, 2026"
+    },
+    {
+      "form": "I-90",
+      "label": "Replace green card",
+      "entries": [
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "140A",
+          "subtype_label": "Initial issuance or replacement",
+          "published": "October 19, 2026",
+          "low_months": 6.0,
+          "high_months": 9.5
+        },
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "140B",
+          "subtype_label": "10-year renewal",
+          "published": "October 19, 2026",
+          "low_months": 10.5,
+          "high_months": 13.0
+        }
+      ],
+      "low_months": 6.0,
+      "high_months": 13.0,
+      "published": "October 19, 2026"
+    },
+    {
+      "form": "N-400",
+      "label": "Naturalization",
+      "entries": [
+        {
+          "office_code": "ABQ",
+          "office": "Albuquerque NM",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 13.0,
+          "high_months": 17.5
+        },
+        {
+          "office_code": "AGA",
+          "office": "Agana GU",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 13.0,
+          "high_months": 18.5
+        },
+        {
+          "office_code": "ALB",
+          "office": "Albany NY",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 10.0,
+          "high_months": 13.0
+        },
+        {
+          "office_code": "ANC",
+          "office": "Anchorage AK",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 12.5,
+          "high_months": 19.0
+        },
+        {
+          "office_code": "ATL",
+          "office": "Atlanta GA",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 13.5,
+          "high_months": 17.0
+        },
+        {
+          "office_code": "BAL",
+          "office": "Baltimore MD",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 15.0,
+          "high_months": 20.5
+        },
+        {
+          "office_code": "BNY",
+          "office": "Brooklyn NY",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 11.0,
+          "high_months": 15.0
+        },
+        {
+          "office_code": "BOI",
+          "office": "Boise ID",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 15.0,
+          "high_months": 17.5
+        },
+        {
+          "office_code": "BOS",
+          "office": "Boston MA",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 13.5,
+          "high_months": 15.5
+        },
+        {
+          "office_code": "BUF",
+          "office": "Buffalo NY",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 14.5,
+          "high_months": 17.0
+        },
+        {
+          "office_code": "CHA",
+          "office": "Charlotte Amalie VI",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 11.5,
+          "high_months": 15.0
+        },
+        {
+          "office_code": "CHI",
+          "office": "Chicago IL",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 13.0,
+          "high_months": 19.5
+        },
+        {
+          "office_code": "CHL",
+          "office": "Charleston SC",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 11.5,
+          "high_months": 15.0
+        },
+        {
+          "office_code": "CHR",
+          "office": "Christiansted VI",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 11.5,
+          "high_months": 15.5
+        },
+        {
+          "office_code": "CIN",
+          "office": "Cincinnati OH",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 9.5,
+          "high_months": 13.0
+        },
+        {
+          "office_code": "CLE",
+          "office": "Cleveland OH",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 10.5,
+          "high_months": 14.5
+        },
+        {
+          "office_code": "CLM",
+          "office": "Columbus OH",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 10.5,
+          "high_months": 14.0
+        },
+        {
+          "office_code": "CLT",
+          "office": "Charlotte NC",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 11.0,
+          "high_months": 14.5
+        },
+        {
+          "office_code": "DAL",
+          "office": "Dallas TX",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 13.0,
+          "high_months": 16.5
+        },
+        {
+          "office_code": "DEN",
+          "office": "Denver CO",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 14.0,
+          "high_months": 18.0
+        },
+        {
+          "office_code": "DET",
+          "office": "Detroit MI",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 13.0,
+          "high_months": 16.5
+        },
+        {
+          "office_code": "DSM",
+          "office": "Des Moines IA",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 13.5,
+          "high_months": 16.5
+        },
+        {
+          "office_code": "ELP",
+          "office": "El Paso TX",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 13.0,
+          "high_months": 15.0
+        },
+        {
+          "office_code": "FRE",
+          "office": "Fresno CA",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 15.5,
+          "high_months": 19.5
+        },
+        {
+          "office_code": "FSA",
+          "office": "Fort Smith AR",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 11.0,
+          "high_months": 13.0
+        },
+        {
+          "office_code": "GRR",
+          "office": "Greer SC",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 10.0,
+          "high_months": 13.5
+        },
+        {
+          "office_code": "HAR",
+          "office": "Hartford CT",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 11.5,
+          "high_months": 14.0
+        },
+        {
+          "office_code": "HEL",
+          "office": "Helena MT",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 9.5,
+          "high_months": 11.5
+        },
+        {
+          "office_code": "HHW",
+          "office": "Honolulu HI",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 12.5,
+          "high_months": 16.5
+        },
+        {
+          "office_code": "HIA",
+          "office": "Hialeah FL",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 9.5,
+          "high_months": 12.5
+        },
+        {
+          "office_code": "HLG",
+          "office": "Harlingen TX",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 11.5,
+          "high_months": 16.0
+        },
+        {
+          "office_code": "HOU",
+          "office": "Houston TX",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 12.0,
+          "high_months": 14.0
+        },
+        {
+          "office_code": "IMP",
+          "office": "Imperial CA",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 14.5,
+          "high_months": 18.0
+        },
+        {
+          "office_code": "INP",
+          "office": "Indianapolis IN",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 14.0,
+          "high_months": 16.5
+        },
+        {
+          "office_code": "JAC",
+          "office": "Jacksonville FL",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 15.0,
+          "high_months": 18.0
+        },
+        {
+          "office_code": "KAN",
+          "office": "Kansas City MO",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 12.5,
+          "high_months": 15.0
+        },
+        {
+          "office_code": "KND",
+          "office": "Kendall FL",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 10.0,
+          "high_months": 13.5
+        },
+        {
+          "office_code": "LAC",
+          "office": "Los Angeles County CA",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 10.5,
+          "high_months": 14.0
+        },
+        {
+          "office_code": "LAW",
+          "office": "Lawrence MA",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 18.0,
+          "high_months": 20.0
+        },
+        {
+          "office_code": "LNY",
+          "office": "Long Island NY",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 12.0,
+          "high_months": 17.0
+        },
+        {
+          "office_code": "LOS",
+          "office": "Los Angeles CA",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 10.5,
+          "high_months": 14.0
+        },
+        {
+          "office_code": "LOU",
+          "office": "Louisville KY",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 10.5,
+          "high_months": 14.5
+        },
+        {
+          "office_code": "LVG",
+          "office": "Las Vegas NV",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 13.0,
+          "high_months": 16.0
+        },
+        {
+          "office_code": "MAN",
+          "office": "Manchester NH",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 10.5,
+          "high_months": 13.5
+        },
+        {
+          "office_code": "MEM",
+          "office": "Memphis TN",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 12.0,
+          "high_months": 16.0
+        },
+        {
+          "office_code": "MGA",
+          "office": "Montgomery AL",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 9.5,
+          "high_months": 12.0
+        },
+        {
+          "office_code": "MIA",
+          "office": "Miami FL",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 10.0,
+          "high_months": 15.0
+        },
+        {
+          "office_code": "MIL",
+          "office": "Milwaukee WI",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 14.0,
+          "high_months": 17.5
+        },
+        {
+          "office_code": "MTL",
+          "office": "Mount Laurel NJ",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 10.0,
+          "high_months": 14.5
+        },
+        {
+          "office_code": "NEW",
+          "office": "Newark NJ",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 11.5,
+          "high_months": 15.5
+        },
+        {
+          "office_code": "NJC",
+          "office": "Cranbury NJ",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 9.0,
+          "high_months": 12.0
+        },
+        {
+          "office_code": "NOL",
+          "office": "New Orleans LA",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 12.5,
+          "high_months": 17.0
+        },
+        {
+          "office_code": "NOR",
+          "office": "Norfolk VA",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 10.5,
+          "high_months": 13.5
+        },
+        {
+          "office_code": "NTN",
+          "office": "Nashville TN",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 13.0,
+          "high_months": 17.0
+        },
+        {
+          "office_code": "NYC",
+          "office": "New York City NY",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 10.0,
+          "high_months": 12.5
+        },
+        {
+          "office_code": "OFM",
+          "office": "Fort Myers FL",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 15.5,
+          "high_months": 19.5
+        },
+        {
+          "office_code": "OKC",
+          "office": "Oklahoma City OK",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 13.0,
+          "high_months": 15.5
+        },
+        {
+          "office_code": "OKL",
+          "office": "Oakland Park FL",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 12.5,
+          "high_months": 19.0
+        },
+        {
+          "office_code": "OMA",
+          "office": "Omaha NE",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 12.5,
+          "high_months": 14.5
+        },
+        {
+          "office_code": "ORL",
+          "office": "Orlando FL",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 13.5,
+          "high_months": 19.0
+        },
+        {
+          "office_code": "PHI",
+          "office": "Philadelphia PA",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 11.5,
+          "high_months": 15.0
+        },
+        {
+          "office_code": "PHO",
+          "office": "Phoenix AZ",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 12.0,
+          "high_months": 13.0
+        },
+        {
+          "office_code": "PIT",
+          "office": "Pittsburgh PA",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 11.5,
+          "high_months": 14.5
+        },
+        {
+          "office_code": "POM",
+          "office": "Portland ME",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 14.5,
+          "high_months": 19.0
+        },
+        {
+          "office_code": "POO",
+          "office": "Portland OR",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 14.5,
+          "high_months": 17.5
+        },
+        {
+          "office_code": "PRO",
+          "office": "Providence RI",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 10.0,
+          "high_months": 13.0
+        },
+        {
+          "office_code": "QNS",
+          "office": "Queens NY",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 10.5,
+          "high_months": 15.5
+        },
+        {
+          "office_code": "RAL",
+          "office": "Raleigh NC",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 12.0,
+          "high_months": 16.0
+        },
+        {
+          "office_code": "REN",
+          "office": "Reno NV",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 11.5,
+          "high_months": 15.0
+        },
+        {
+          "office_code": "SAA",
+          "office": "Santa Ana CA",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 14.0,
+          "high_months": 17.0
+        },
+        {
+          "office_code": "SAC",
+          "office": "Sacramento CA",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 16.0,
+          "high_months": 24.0
+        },
+        {
+          "office_code": "SAJ",
+          "office": "San Juan PR",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 9.5,
+          "high_months": 11.0
+        },
+        {
+          "office_code": "SBD",
+          "office": "San Bernardino CA",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 13.0,
+          "high_months": 17.5
+        },
+        {
+          "office_code": "SEA",
+          "office": "Seattle WA",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 13.5,
+          "high_months": 15.5
+        },
+        {
+          "office_code": "SFR",
+          "office": "San Francisco CA",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 14.5,
+          "high_months": 22.5
+        },
+        {
+          "office_code": "SFV",
+          "office": "San Fernando Valley CA",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 13.0,
+          "high_months": 15.5
+        },
+        {
+          "office_code": "SLC",
+          "office": "Salt Lake City UT",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 13.5,
+          "high_months": 16.0
+        },
+        {
+          "office_code": "SNA",
+          "office": "San Antonio TX",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 11.5,
+          "high_months": 13.5
+        },
+        {
+          "office_code": "SND",
+          "office": "San Diego CA",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 15.5,
+          "high_months": 23.0
+        },
+        {
+          "office_code": "SNJ",
+          "office": "San Jose CA",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 16.0,
+          "high_months": 31.5
+        },
+        {
+          "office_code": "SPM",
+          "office": "Minneapolis-St. Paul MN",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 14.5,
+          "high_months": 20.0
+        },
+        {
+          "office_code": "SPO",
+          "office": "Spokane WA",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 11.5,
+          "high_months": 13.0
+        },
+        {
+          "office_code": "STA",
+          "office": "Burlington VT",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 10.5,
+          "high_months": 12.0
+        },
+        {
+          "office_code": "STL",
+          "office": "Saint Louis MO",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 12.5,
+          "high_months": 14.0
+        },
+        {
+          "office_code": "TAM",
+          "office": "Tampa FL",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 13.5,
+          "high_months": 16.5
+        },
+        {
+          "office_code": "TUC",
+          "office": "Tucson AZ",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 12.0,
+          "high_months": 14.0
+        },
+        {
+          "office_code": "WAS",
+          "office": "Washington DC",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 11.5,
+          "high_months": 14.5
+        },
+        {
+          "office_code": "WIC",
+          "office": "Wichita KS",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 13.0,
+          "high_months": 18.0
+        },
+        {
+          "office_code": "WPB",
+          "office": "West Palm Beach FL",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 10.0,
+          "high_months": 16.5
+        },
+        {
+          "office_code": "YAK",
+          "office": "Yakima WA",
+          "subtype": "160A",
+          "subtype_label": "Application for Naturalization",
+          "published": "October 19, 2026",
+          "low_months": 13.5,
+          "high_months": 15.5
+        }
+      ],
+      "low_months": 9.0,
+      "high_months": 31.5,
+      "published": "October 19, 2026"
+    },
+    {
+      "form": "I-526E",
+      "label": "Immigrant investor petition",
+      "entries": [
+        {
+          "office_code": "IPO",
+          "office": "Immigrant Investor Program Office",
+          "subtype": "526IP",
+          "subtype_label": "Immigrant Petition by Regional Center Investor",
+          "published": "October 19, 2026",
+          "low_months": 35.0,
+          "high_months": 38.5
+        }
+      ],
+      "low_months": 35.0,
+      "high_months": 38.5,
+      "published": "October 19, 2026"
+    },
+    {
+      "form": "I-821D",
+      "label": "DACA renewal",
+      "entries": [
+        {
+          "office_code": "SCD",
+          "office": "Service Center Operations (SCOPS)",
+          "subtype": "149-CAT",
+          "subtype_label": "Renewal",
+          "published": "October 19, 2026",
+          "low_months": 3.5,
+          "high_months": 7.0
+        }
+      ],
+      "low_months": 3.5,
+      "high_months": 7.0,
+      "published": "October 19, 2026"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-11-09T21:50:04+00:00",
+    "sample": false,
+    "source_url": "https://egov.uscis.gov/processing-times/",
+    "via": "https://github.com/jzebedee/uscis/releases/tag/2026-11-09"
+  },
+  "deltas": {},
+  "compared_to": null
+}
