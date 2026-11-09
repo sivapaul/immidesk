@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generated_at": "2026-11-09T21:50:20+00:00",
+    "generated_at": "2026-11-09T21:56:51+00:00",
     "sample": false
   },
   "sources": {
     "uscis_times": {
       "name": "USCIS processing times (via jzebedee/uscis dataset)",
       "url": "https://github.com/jzebedee/uscis/releases/latest",
-      "last_attempt": "2026-11-09T21:50:04+00:00",
+      "last_attempt": "2026-11-09T21:56:37+00:00",
       "ok": true,
       "error": null,
-      "last_success": "2026-11-09T21:50:04+00:00",
+      "last_success": "2026-11-09T21:56:37+00:00",
       "count": null,
       "max_age_hours": 72,
       "verify": false
@@ -18,10 +18,10 @@
     "dol_flag": {
       "name": "DOL FLAG processing times",
       "url": "https://flag.dol.gov/processingtimes",
-      "last_attempt": "2026-11-09T21:50:05+00:00",
+      "last_attempt": "2026-11-09T21:56:38+00:00",
       "ok": true,
       "error": null,
-      "last_success": "2026-11-09T21:50:05+00:00",
+      "last_success": "2026-11-09T21:56:38+00:00",
       "count": null,
       "max_age_hours": 192,
       "verify": false
@@ -29,10 +29,10 @@
     "federal_register": {
       "name": "Federal Register",
       "url": "https://www.federalregister.gov/api/v1/documents.json",
-      "last_attempt": "2026-11-09T21:50:13+00:00",
+      "last_attempt": "2026-11-09T21:56:46+00:00",
       "ok": true,
       "error": null,
-      "last_success": "2026-11-09T21:50:13+00:00",
+      "last_success": "2026-11-09T21:56:46+00:00",
       "count": 240,
       "max_age_hours": 48,
       "verify": false
@@ -40,10 +40,10 @@
     "uscis_news": {
       "name": "USCIS newsroom",
       "url": "https://www.uscis.gov/newsroom/all-news",
-      "last_attempt": "2026-11-09T21:50:14+00:00",
+      "last_attempt": "2026-11-09T21:56:47+00:00",
       "ok": true,
       "error": null,
-      "last_success": "2026-11-09T21:50:14+00:00",
+      "last_success": "2026-11-09T21:56:47+00:00",
       "count": 10,
       "max_age_hours": 72,
       "verify": true
@@ -51,10 +51,10 @@
     "study_in_the_states": {
       "name": "Study in the States (SEVP)",
       "url": "https://studyinthestates.dhs.gov/",
-      "last_attempt": "2026-11-09T21:50:16+00:00",
+      "last_attempt": "2026-11-09T21:56:48+00:00",
       "ok": true,
       "error": null,
-      "last_success": "2026-11-09T21:50:16+00:00",
+      "last_success": "2026-11-09T21:56:48+00:00",
       "count": 3,
       "max_age_hours": 72,
       "verify": true
@@ -62,10 +62,10 @@
     "dhs_news": {
       "name": "DHS news",
       "url": "https://www.dhs.gov/news-releases/press-releases",
-      "last_attempt": "2026-11-09T21:50:17+00:00",
+      "last_attempt": "2026-11-09T21:56:49+00:00",
       "ok": true,
       "error": null,
-      "last_success": "2026-11-09T21:50:17+00:00",
+      "last_success": "2026-11-09T21:56:49+00:00",
       "count": 0,
       "max_age_hours": 72,
       "verify": true
@@ -73,10 +73,10 @@
     "cbp_news": {
       "name": "CBP national media releases",
       "url": "https://www.cbp.gov/newsroom/national-media-release",
-      "last_attempt": "2026-11-09T21:50:19+00:00",
+      "last_attempt": "2026-11-09T21:56:50+00:00",
       "ok": true,
       "error": null,
-      "last_success": "2026-11-09T21:50:19+00:00",
+      "last_success": "2026-11-09T21:56:50+00:00",
       "count": 0,
       "max_age_hours": 72,
       "verify": true
@@ -84,10 +84,10 @@
     "white_house_actions": {
       "name": "White House presidential actions",
       "url": "https://www.whitehouse.gov/presidential-actions/",
-      "last_attempt": "2026-11-09T21:50:20+00:00",
+      "last_attempt": "2026-11-09T21:56:51+00:00",
       "ok": true,
       "error": null,
-      "last_success": "2026-11-09T21:50:20+00:00",
+      "last_success": "2026-11-09T21:56:51+00:00",
       "count": 0,
       "max_age_hours": 72,
       "verify": true
