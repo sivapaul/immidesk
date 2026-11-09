@@ -1,0 +1,35 @@
+{
+ "count": 2,
+ "results": [
+  {
+   "title": "Sample: Modernizing H-1B Requirements and Cap Selection",
+   "abstract": "Sample proposed rule changing how H-1B cap registrations are selected.",
+   "document_number": "2026-24518",
+   "html_url": "https://www.federalregister.gov/documents/sample-1",
+   "publication_date": "2026-11-06",
+   "type": "Proposed Rule",
+   "effective_on": null,
+   "comments_close_on": "2027-01-05",
+   "agencies": [
+    {
+     "name": "U.S. Citizenship and Immigration Services"
+    }
+   ]
+  },
+  {
+   "title": "Sample: USCIS Fee Schedule Adjustment for Employment Authorization",
+   "abstract": "Sample final rule adjusting I-765 and I-131 filing fees.",
+   "document_number": "2026-23001",
+   "html_url": "https://www.federalregister.gov/documents/sample-2",
+   "publication_date": "2026-10-30",
+   "type": "Rule",
+   "effective_on": "2026-12-29",
+   "comments_close_on": null,
+   "agencies": [
+    {
+     "name": "U.S. Citizenship and Immigration Services"
+    }
+   ]
+  }
+ ]
+}

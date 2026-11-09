@@ -1,0 +1,110 @@
+# Every source the pipeline reads. To add a news source, add an entry under `feeds`.
+# type: rss | html_links. html_links keeps <a> tags whose URL matches href_pattern.
+# require_match: keep only items that match an immigration topic (for broad sites like DHS).
+# store: headline_only for media and law firms (title + link, no text).
+# verify: true marks entries whose selectors have not been checked against the live page yet.
+
+core:
+  visa_bulletin:     {name: Visa Bulletin, url: "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html", min_hours: 12, max_age_hours: 72}
+  uscis_times:       {name: USCIS processing times (via jzebedee/uscis dataset), url: "https://github.com/jzebedee/uscis/releases/latest", min_hours: 12, max_age_hours: 72}
+  wait_times:        {name: Visa appointment wait times, url: "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/global-visa-wait-times.html", min_hours: 24, max_age_hours: 192}
+  dol_flag:          {name: DOL FLAG processing times, url: "https://flag.dol.gov/processingtimes", min_hours: 24, max_age_hours: 192}
+  federal_register:  {name: Federal Register, url: "https://www.federalregister.gov/api/v1/documents.json", min_hours: 4, max_age_hours: 48}
+
+feeds:
+  - id: state_visa_news
+    name: State Dept visa news
+    type: html_links
+    url: https://travel.state.gov/content/travel/en/News/visas-news.html
+    href_pattern: '/(News/visas-news|newsroom/visas)/.+\.html$'
+    kind: agency_news
+    tags: [travel]
+    min_hours: 4
+
+  - id: uscis_news
+    name: USCIS newsroom
+    type: html_links
+    url: https://www.uscis.gov/newsroom/all-news
+    href_pattern: '/newsroom/(news-releases|alerts|stakeholder-messages)/[^/]+$'
+    kind: agency_news
+    min_hours: 4
+    verify: true
+
+  - id: uscis_govdelivery
+    name: USCIS email bulletins
+    type: html_links
+    url: https://content.govdelivery.com/accounts/USDHSCIS/bulletins
+    href_pattern: '/accounts/USDHSCIS/bulletins/[0-9a-f]+'
+    kind: agency_news
+    min_hours: 4
+    verify: true
+
+  - id: study_in_the_states
+    name: Study in the States (SEVP)
+    type: html_links
+    url: https://studyinthestates.dhs.gov/
+    href_pattern: 'studyinthestates\.dhs\.gov/\d{4}/\d{2}/'
+    kind: agency_news
+    tags: [students]
+    min_hours: 12
+    verify: true
+
+  - id: dhs_news
+    name: DHS news
+    type: html_links
+    url: https://www.dhs.gov/news-releases/press-releases
+    href_pattern: '/news/\d{4}/\d{2}/\d{2}/'
+    kind: agency_news
+    require_match: true
+    min_hours: 6
+    verify: true
+
+  - id: cbp_news
+    name: CBP national media releases
+    type: html_links
+    url: https://www.cbp.gov/newsroom/national-media-release
+    href_pattern: '/newsroom/national-media-release/[^/]+$'
+    kind: agency_news
+    require_match: true
+    min_hours: 12
+    verify: true
+
+  - id: dol_eta_news
+    name: DOL ETA news
+    type: html_links
+    url: https://www.dol.gov/newsroom/releases/eta
+    href_pattern: '/newsroom/releases/eta/eta\d+'
+    kind: agency_news
+    require_match: true
+    min_hours: 12
+    verify: true
+
+  - id: white_house_actions
+    name: White House presidential actions
+    type: html_links
+    url: https://www.whitehouse.gov/presidential-actions/
+    href_pattern: 'whitehouse\.gov/presidential-actions/\d{4}/\d{2}/'
+    kind: presidential
+    require_match: true
+    min_hours: 6
+    verify: true
+
+  - id: embassy_india
+    name: US Embassy India
+    type: html_links
+    url: https://in.usembassy.gov/news-events/
+    href_pattern: 'in\.usembassy\.gov/[a-z0-9-]{20,}/$'
+    kind: agency_news
+    require_match: true
+    tags: [travel]
+    min_hours: 12
+    verify: true
+
+  # Disabled until a key or permission is in place.
+  - id: example_law_firm_rss
+    name: Example law firm alerts
+    type: rss
+    url: https://example.com/feed/
+    kind: law_firm
+    store: headline_only
+    enabled: false
