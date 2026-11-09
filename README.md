@@ -44,7 +44,7 @@ npm run dev          # http://localhost:5173
 
 Windows PowerShell uses the same commands. To fetch live data instead of samples, run `python -m pipeline.run --force`. The first live run deletes any sample data automatically.
 
-Useful flags: `--only visa_bulletin,wait_times` runs a subset, `--debug` prints full tracebacks, `--out DIR` writes somewhere else.
+Useful flags: `--runner cloud|local` runs only sources tagged for that runner, `--only visa_bulletin,wait_times` runs a subset, `--debug` prints full tracebacks, `--out DIR` writes somewhere else.
 
 ## Deploy on GitHub Pages
 
@@ -57,6 +57,25 @@ Useful flags: `--only visa_bulletin,wait_times` runs a subset, `--debug` prints 
 Using a custom domain? Set a repository variable `SITE_BASE` to `/` (Settings → Secrets and variables → Actions → Variables), add the domain under Settings → Pages, and point DNS at GitHub Pages.
 
 Set `IMMIDESK_USER_AGENT` in the workflow to include your repo URL so site owners can reach you.
+
+## Sites that block GitHub Actions
+
+travel.state.gov (Visa Bulletin, wait times, visa news), dol.gov and embassy sites return HTTP 403 to cloud servers. These sources are tagged `runner: local` in `sources.yaml` and fetched from a computer you own, on a normal home connection. Everything else runs in GitHub Actions. If no local runner is set up, those sections show as unavailable and the rest of the site keeps updating.
+
+**Option A: self-hosted runner (logs stay in GitHub Actions).** On a personal Linux, macOS or WSL machine that stays on:
+
+1. Repo → Settings → Actions → Runners → **New self-hosted runner**, pick your OS and run the commands it shows. When asked for labels, add `immidesk`.
+2. Install it as a service so it survives reboots: `sudo ./svc.sh install && sudo ./svc.sh start`.
+3. Repo → Settings → Secrets and variables → Actions → Variables → add `LOCAL_RUNNER` = `true`.
+4. Settings → Actions → General → set *Fork pull request workflows* to require approval for all outside collaborators. The local job only runs on the schedule and manual runs, never on pull requests.
+
+**Option B: cron.** Clone the repo on that machine with push access and add:
+
+```
+17 */6 * * * cd ~/immidesk && scripts/local-update.sh >> /tmp/immidesk-local.log 2>&1
+```
+
+Use a personal machine, not a work laptop.
 
 ## Add a news source
 
@@ -110,4 +129,3 @@ All of it is public and can be reused.
 ## License
 
 MIT. Government data is public domain. News headlines link to their publishers.
-# immidesk

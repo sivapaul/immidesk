@@ -46,16 +46,13 @@ SCHEMAS = {
     "status.json": {"type": "object", "required": ["sources", "meta"]},
 }
 
-OPTIONAL = {"dol/latest.json", "wait_times/latest.json"}
-
-
 def check(out):
     out = Path(out)
     errors, warnings = [], []
     for rel, schema in SCHEMAS.items():
         data = read_json(out / rel)
         if data is None:
-            (warnings if rel in OPTIONAL else errors).append(f"{rel}: missing")
+            warnings.append(f"{rel}: missing")
             continue
         for e in Draft202012Validator(schema).iter_errors(data):
             errors.append(f"{rel}: {'/'.join(map(str, e.path))}: {e.message[:160]}")

@@ -3,16 +3,18 @@
 # require_match: keep only items that match an immigration topic (for broad sites like DHS).
 # store: headline_only for media and law firms (title + link, no text).
 # verify: true marks entries whose selectors have not been checked against the live page yet.
+# runner: local marks sites that block cloud IPs (GitHub Actions). They run on a self-hosted runner instead.
 
 core:
-  visa_bulletin:     {name: Visa Bulletin, url: "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html", min_hours: 12, max_age_hours: 72}
+  visa_bulletin:     {runner: local, name: Visa Bulletin, url: "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html", min_hours: 12, max_age_hours: 72}
   uscis_times:       {name: USCIS processing times (via jzebedee/uscis dataset), url: "https://github.com/jzebedee/uscis/releases/latest", min_hours: 12, max_age_hours: 72}
-  wait_times:        {name: Visa appointment wait times, url: "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/global-visa-wait-times.html", min_hours: 24, max_age_hours: 192}
+  wait_times:        {runner: local, name: Visa appointment wait times, url: "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/global-visa-wait-times.html", min_hours: 24, max_age_hours: 192}
   dol_flag:          {name: DOL FLAG processing times, url: "https://flag.dol.gov/processingtimes", min_hours: 24, max_age_hours: 192}
   federal_register:  {name: Federal Register, url: "https://www.federalregister.gov/api/v1/documents.json", min_hours: 4, max_age_hours: 48}
 
 feeds:
   - id: state_visa_news
+    runner: local
     name: State Dept visa news
     type: html_links
     url: https://travel.state.gov/content/travel/en/News/visas-news.html
@@ -31,6 +33,7 @@ feeds:
     verify: true
 
   - id: uscis_govdelivery
+    enabled: false
     name: USCIS email bulletins
     type: html_links
     url: https://content.govdelivery.com/accounts/USDHSCIS/bulletins
@@ -70,6 +73,7 @@ feeds:
     verify: true
 
   - id: dol_eta_news
+    runner: local
     name: DOL ETA news
     type: html_links
     url: https://www.dol.gov/newsroom/releases/eta
@@ -90,6 +94,7 @@ feeds:
     verify: true
 
   - id: embassy_india
+    runner: local
     name: US Embassy India
     type: html_links
     url: https://in.usembassy.gov/news-events/

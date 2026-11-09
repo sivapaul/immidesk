@@ -15,12 +15,15 @@ ROOT = Path(__file__).resolve().parent.parent
 
 
 class Ctx:
-    def __init__(self, out, fetcher, cfg, force, only):
+    def __init__(self, out, fetcher, cfg, force, only, runner="all"):
         self.out = Path(out)
         self.fetcher = fetcher
         self.cfg = cfg
         self.force = force
         self.only = only
+        self.runner = runner
+        self.runners = {k: v.get("runner", "cloud") for k, v in cfg["core"].items()}
+        self.runners.update({f["id"]: f.get("runner", "cloud") for f in cfg.get("feeds", [])})
         self.sample = fetcher.offline
         self.status = read_json(self.out / "status.json", {}).get("sources", {}) if not self.sample else {}
 
@@ -47,6 +50,8 @@ class Ctx:
 
 def run_source(ctx, sid, name, url, min_hours, fn):
     if ctx.only and sid not in ctx.only:
+        return None
+    if ctx.runner != "all" and ctx.runners.get(sid, "cloud") != ctx.runner:
         return None
     if not ctx.due(sid, min_hours):
         print(f"skip  {sid} (fresh)")
@@ -207,6 +212,8 @@ def main(argv=None):
     ap.add_argument("--offline", metavar="FIXTURES_DIR", help="read fixtures instead of the network (sample data)")
     ap.add_argument("--force", action="store_true", help="ignore min_hours and fetch everything")
     ap.add_argument("--only", help="comma-separated source ids")
+    ap.add_argument("--runner", choices=["all", "cloud", "local"], default="all",
+                    help="run only sources tagged for this runner in sources.yaml")
     ap.add_argument("--config", default=str(ROOT / "sources.yaml"))
     ap.add_argument("--debug", action="store_true")
     a = ap.parse_args(argv)
@@ -216,7 +223,7 @@ def main(argv=None):
         import shutil
         print("removing sample data before the first live run")
         shutil.rmtree(out)
-    ctx = Ctx(a.out, Fetcher(a.offline), cfg, a.force, set(a.only.split(",")) if a.only else None)
+    ctx = Ctx(a.out, Fetcher(a.offline), cfg, a.force, set(a.only.split(",")) if a.only else None, a.runner)
 
     if ctx.sample:
         seed_sample_history(ctx)
