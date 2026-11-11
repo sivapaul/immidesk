@@ -33,31 +33,31 @@
       "rows": [
         [
           "CW-1",
-          "August 2026",
+          "September 2026",
           "--"
         ],
         [
           "H-1B",
-          "June 2026",
-          "June 2026"
+          "July 2026",
+          "July 2026"
         ],
         [
           "H-2B",
-          "August 2026",
+          "September 2026",
           "--"
         ],
         [
           "PERM",
-          "June 2026",
-          "June 2026"
+          "August 2026",
+          "July 2026"
         ],
         [
           "Redeterminations",
-          "H-1B: August 2026 PERM: July 2026"
+          "H-1B: September 2026 PERM: August 2026"
         ],
         [
           "Center Director Reviews",
-          "CW-1: September 2026 H-1B: July 2026 H-2B: June 2026 PERM: July 2026"
+          "CW-1: September 2026 H-1B: October 2026 H-2B: September 2026 PERM: September 2026"
         ]
       ]
     },
@@ -72,24 +72,24 @@
           "Remaining Requests ii"
         ],
         [
-          "May 2026",
-          "2"
-        ],
-        [
           "June 2026",
-          "8"
+          "1"
         ],
         [
           "July 2026",
-          "5"
+          "3"
         ],
         [
           "August 2026",
-          "36"
+          "3"
         ],
         [
           "September 2026",
-          "159"
+          "24"
+        ],
+        [
+          "October 2026",
+          "106"
         ]
       ]
     },
@@ -104,28 +104,24 @@
           "Remaining Requests ii"
         ],
         [
-          "April 2026",
-          "3"
-        ],
-        [
-          "May 2026",
-          "1"
-        ],
-        [
           "June 2026",
-          "74"
+          "2"
         ],
         [
           "July 2026",
-          "248"
+          "20"
         ],
         [
           "August 2026",
-          "183"
+          "191"
         ],
         [
           "September 2026",
-          "201"
+          "200"
+        ],
+        [
+          "October 2026",
+          "162"
         ]
       ]
     },
@@ -145,11 +141,15 @@
         ],
         [
           "August 2026",
-          "548"
+          "1"
         ],
         [
           "September 2026",
-          "3,975"
+          "218"
+        ],
+        [
+          "October 2026",
+          "3,239"
         ]
       ]
     },
@@ -164,28 +164,28 @@
           "Remaining Requests ii"
         ],
         [
-          "April 2026",
-          "8"
-        ],
-        [
           "May 2026",
-          "36"
+          "12"
         ],
         [
           "June 2026",
-          "3,532"
+          "30"
         ],
         [
           "July 2026",
-          "15,959"
+          "1,346"
         ],
         [
           "August 2026",
-          "14,980"
+          "14,925"
         ],
         [
           "September 2026",
-          "14,519"
+          "14,400"
+        ],
+        [
+          "October 2026",
+          "13,179"
         ]
       ]
     },
@@ -560,10 +560,10 @@
       ]
     }
   ],
-  "as_of": "9/30/2026",
+  "as_of": "10/31/2026",
   "url": "https://flag.dol.gov/processingtimes",
   "meta": {
-    "generated_at": "2026-11-09T21:56:38+00:00",
+    "generated_at": "2026-11-11T00:40:53+00:00",
     "sample": false,
     "source_url": "https://flag.dol.gov/processingtimes"
   }

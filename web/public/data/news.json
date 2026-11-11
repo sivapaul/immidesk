@@ -1,9 +1,29 @@
 {
   "meta": {
-    "generated_at": "2026-11-10T16:26:56+00:00",
+    "generated_at": "2026-11-11T00:41:05+00:00",
     "sample": false
   },
   "items": [
+    {
+      "id": "dhs_news-e629e21e94",
+      "title": "DHS is Taking Down Asylum Fraudsters",
+      "summary": "The United States Department of Homeland Security (DHS) released the following statement highlighting recent examples of how U.S. Citizenship and Immigration Services (USCIS) is playing a key role in the war on asylum fraud. Over the past year, USCIS has provided pivotal assistance to several federal prosecutions focused on ferreting out those who lie to get the protection of the United States.",
+      "kind": "agency_news",
+      "published": "2026-11-10",
+      "sources": [
+        {
+          "id": "dhs_news",
+          "name": "DHS news",
+          "url": "https://www.dhs.gov/news/2026/11/10/dhs-taking-down-asylum-fraudsters",
+          "published": "2026-11-10"
+        }
+      ],
+      "deadlines": [],
+      "tags": [
+        "citizenship",
+        "humanitarian"
+      ]
+    },
     {
       "id": "uscis_news-e127026b37",
       "title": "Cuban Aliens and Florida Man Sentenced for Their Roles in an International Alien Smuggling, Asylum Fraud, and Money Laundering Conspiracy",
