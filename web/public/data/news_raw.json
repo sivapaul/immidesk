@@ -1,9 +1,31 @@
 {
   "meta": {
-    "generated_at": "2026-11-12T12:45:40+00:00",
+    "generated_at": "2026-11-12T22:15:30+00:00",
     "sample": false
   },
   "items": [
+    {
+      "id": "study_in_the_states-aac522937b",
+      "title": "SEVIS Annual Verification: Reminders and Key Dates for School Officials",
+      "summary": "",
+      "kind": "agency_news",
+      "published": "2026-11-12",
+      "sources": [
+        {
+          "id": "study_in_the_states",
+          "name": "Study in the States (SEVP)",
+          "url": "https://studyinthestates.dhs.gov/2026/11/sevis-annual-verification-reminders-and-key-dates-for-school-officials",
+          "published": "2026-11-12"
+        }
+      ],
+      "deadlines": [],
+      "preset_tags": [
+        "students"
+      ],
+      "tags": [
+        "students"
+      ]
+    },
     {
       "id": "dhs_news-e629e21e94",
       "title": "DHS is Taking Down Asylum Fraudsters",
