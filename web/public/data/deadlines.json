@@ -1,22 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-12T22:15:30+00:00",
+    "generated_at": "2026-11-13T06:47:59+00:00",
     "sample": false
   },
   "items": [
-    {
-      "date": "2026-10-13",
-      "type": "comments_close",
-      "label": "Public comments close",
-      "confidence": "high",
-      "method": "structured",
-      "item_id": "fr-2026-16313",
-      "title": "Mandatory Electronic Filing (e-Filing)",
-      "tags": [],
-      "url": "https://www.federalregister.gov/documents/2026/08/11/2026-16313/mandatory-electronic-filing-e-filing",
-      "source": "Federal Register",
-      "kind": "final_rule"
-    },
     {
       "date": "2026-10-14",
       "type": "effective",
