@@ -1,39 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-13T16:27:20+00:00",
+    "generated_at": "2026-11-14T00:53:58+00:00",
     "sample": false
   },
   "items": [
-    {
-      "date": "2026-10-14",
-      "type": "effective",
-      "label": "Takes effect",
-      "confidence": "high",
-      "method": "structured",
-      "item_id": "fr-2026-20955",
-      "title": "Removal of Automatic Extensions for Certain Employment Authorization Documents",
-      "tags": [
-        "gc"
-      ],
-      "url": "https://www.federalregister.gov/documents/2026/10/14/2026-20955/removal-of-automatic-extensions-for-certain-employment-authorization-documents",
-      "source": "Federal Register",
-      "kind": "final_rule"
-    },
-    {
-      "date": "2026-10-14",
-      "type": "comments_close",
-      "label": "Public comments close",
-      "confidence": "high",
-      "method": "structured",
-      "item_id": "fr-2026-18736",
-      "title": "Agency Information Collection Activities; Revision of a Currently Approved Collection: Petition To Remove the Conditions on Residence",
-      "tags": [
-        "citizenship"
-      ],
-      "url": "https://www.federalregister.gov/documents/2026/09/14/2026-18736/agency-information-collection-activities-revision-of-a-currently-approved-collection-petition-to",
-      "source": "Federal Register",
-      "kind": "notice"
-    },
     {
       "date": "2026-10-19",
       "type": "comments_close",
