@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-15T21:03:43+00:00",
+    "generated_at": "2026-11-16T06:32:36+00:00",
     "sample": false
   },
   "items": [
@@ -323,21 +323,6 @@
       "kind": "notice"
     },
     {
-      "date": "2026-11-15",
-      "type": "visa_bulletin",
-      "label": "Next Visa Bulletin usually published around mid-month (for December)",
-      "confidence": "typical",
-      "tags": [
-        "gc",
-        "family"
-      ],
-      "url": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html",
-      "item_id": null,
-      "title": "Next Visa Bulletin usually published around mid-month (for December)",
-      "source": "Typical calendar",
-      "kind": "calendar"
-    },
-    {
       "date": "2026-11-17",
       "type": "comments_close",
       "label": "Public comments close",
@@ -429,6 +414,21 @@
       "url": "https://www.federalregister.gov/documents/2026/10/06/2026-20422/agency-information-collection-activities-extension-without-change-of-a-currently-approved-collection",
       "source": "Federal Register",
       "kind": "notice"
+    },
+    {
+      "date": "2026-12-15",
+      "type": "visa_bulletin",
+      "label": "Next Visa Bulletin usually published around mid-month (for January)",
+      "confidence": "typical",
+      "tags": [
+        "gc",
+        "family"
+      ],
+      "url": "https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html",
+      "item_id": null,
+      "title": "Next Visa Bulletin usually published around mid-month (for January)",
+      "source": "Typical calendar",
+      "kind": "calendar"
     },
     {
       "date": "2026-12-22",

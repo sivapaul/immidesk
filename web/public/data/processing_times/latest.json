@@ -1,7 +1,7 @@
 {
   "release": {
-    "tag": "2026-11-14",
-    "url": "https://github.com/jzebedee/uscis/releases/tag/2026-11-14"
+    "tag": "2026-11-15",
+    "url": "https://github.com/jzebedee/uscis/releases/tag/2026-11-15"
   },
   "forms": [
     {
@@ -2472,10 +2472,10 @@
     }
   ],
   "meta": {
-    "generated_at": "2026-11-15T06:35:51+00:00",
+    "generated_at": "2026-11-16T06:32:21+00:00",
     "sample": false,
     "source_url": "https://egov.uscis.gov/processing-times/",
-    "via": "https://github.com/jzebedee/uscis/releases/tag/2026-11-14"
+    "via": "https://github.com/jzebedee/uscis/releases/tag/2026-11-15"
   },
   "deltas": {
     "I-485": 0.0,
