@@ -1,9 +1,38 @@
 {
   "meta": {
-    "generated_at": "2026-11-17T02:56:44+00:00",
+    "generated_at": "2026-11-17T13:28:58+00:00",
     "sample": false
   },
   "items": [
+    {
+      "id": "fr-2026-23370",
+      "title": "Modernizing the Labor Market Test and Improving Protections for U.S. Workers in the PERM Immigrant Visa Program",
+      "summary": "The Department of Labor (Department or DOL) proposes to amend its regulations regarding the certification of job opportunities offered by employers seeking to employ aliens on a permanent basis in the United States. This Notice of Proposed Rulemaking (NPRM or proposed rule) strengthens the standards by which the Department receives and reviews employers' applications for permanent labor certificat",
+      "kind": "proposed_rule",
+      "published": "2026-11-17",
+      "fr_doc": "2026-23370",
+      "sources": [
+        {
+          "id": "federal_register",
+          "name": "Federal Register",
+          "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23370/modernizing-the-labor-market-test-and-improving-protections-for-us-workers-in-the-perm-immigrant",
+          "published": "2026-11-17",
+          "detail": "Labor Department, Employment and Training Administration"
+        }
+      ],
+      "deadlines": [
+        {
+          "date": "2027-01-19",
+          "type": "comments_close",
+          "label": "Public comments close",
+          "confidence": "high",
+          "method": "structured"
+        }
+      ],
+      "tags": [
+        "gc"
+      ]
+    },
     {
       "id": "study_in_the_states-aac522937b",
       "title": "SEVIS Annual Verification: Reminders and Key Dates for School Officials",

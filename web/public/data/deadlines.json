@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-17T02:56:44+00:00",
+    "generated_at": "2026-11-17T13:28:58+00:00",
     "sample": false
   },
   "items": [
@@ -461,6 +461,21 @@
       "url": "https://www.federalregister.gov/documents/2026/10/23/2026-21684/agency-information-collection-activities-revision-of-a-currently-approved-collection-application-for",
       "source": "Federal Register",
       "kind": "notice"
+    },
+    {
+      "date": "2027-01-19",
+      "type": "comments_close",
+      "label": "Public comments close",
+      "confidence": "high",
+      "method": "structured",
+      "item_id": "fr-2026-23370",
+      "title": "Modernizing the Labor Market Test and Improving Protections for U.S. Workers in the PERM Immigrant Visa Program",
+      "tags": [
+        "gc"
+      ],
+      "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23370/modernizing-the-labor-market-test-and-improving-protections-for-us-workers-in-the-perm-immigrant",
+      "source": "Federal Register",
+      "kind": "proposed_rule"
     },
     {
       "date": "2027-03-01",
