@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-17T23:31:59+00:00",
+    "generated_at": "2026-11-18T07:31:40+00:00",
     "sample": false
   },
   "items": [
@@ -1676,33 +1676,6 @@
       "tags": [
         "family"
       ]
-    },
-    {
-      "id": "fr-2026-14539",
-      "title": "Public Charge Ground of Inadmissibility",
-      "summary": "DHS is rescinding the 2022 public charge ground of inadmissibility regulations (\"2022 Final Rule\"). The 2022 Final Rule was not the best implementation of the statute. It was inconsistent with congressional intent, unduly restrictive, and hampered DHS's ability to make accurate, precise, and reliable determinations of whether certain aliens are likely at any time to become a public charge. Resciss",
-      "kind": "final_rule",
-      "published": "2026-07-20",
-      "fr_doc": "2026-14539",
-      "sources": [
-        {
-          "id": "federal_register",
-          "name": "Federal Register",
-          "url": "https://www.federalregister.gov/documents/2026/07/20/2026-14539/public-charge-ground-of-inadmissibility",
-          "published": "2026-07-20",
-          "detail": "Homeland Security Department"
-        }
-      ],
-      "deadlines": [
-        {
-          "date": "2026-09-18",
-          "type": "effective",
-          "label": "Takes effect",
-          "confidence": "high",
-          "method": "structured"
-        }
-      ],
-      "tags": []
     }
   ]
 }
