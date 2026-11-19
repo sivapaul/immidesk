@@ -1,24 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-18T17:17:04+00:00",
+    "generated_at": "2026-11-19T01:53:20+00:00",
     "sample": false
   },
   "items": [
-    {
-      "date": "2026-10-19",
-      "type": "comments_close",
-      "label": "Public comments close",
-      "confidence": "high",
-      "method": "structured",
-      "item_id": "fr-2026-19026",
-      "title": "Agency Information Collection Activities; Extension, Without Change, of a Currently Approved Collection: Collection of Qualitative Feedback Through Focus Groups",
-      "tags": [
-        "citizenship"
-      ],
-      "url": "https://www.federalregister.gov/documents/2026/09/17/2026-19026/agency-information-collection-activities-extension-without-change-of-a-currently-approved-collection",
-      "source": "Federal Register",
-      "kind": "notice"
-    },
     {
       "date": "2026-10-30",
       "type": "effective",
