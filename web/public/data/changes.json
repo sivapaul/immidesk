@@ -1,7 +1,18 @@
 {
   "meta": {
-    "generated_at": "2026-11-21T01:32:24+00:00",
+    "generated_at": "2026-11-21T12:41:05+00:00",
     "sample": false
   },
-  "items": []
+  "items": [
+    {
+      "area": "USCIS",
+      "text": "I-130 processing is 163 months faster at the slowest office",
+      "tone": "good"
+    },
+    {
+      "area": "USCIS",
+      "text": "I-539 processing is 67.5 months slower at the slowest office",
+      "tone": "bad"
+    }
+  ]
 }
