@@ -227,19 +227,19 @@
           "MOST RECENT WEEK COMPLETED"
         ],
         [
-          "November 1 - November 7",
-          "455",
-          "455",
+          "November 8 - November 14",
+          "403",
+          "403",
           "100%"
         ],
         [
           "CURRENT PROCESSING STATUS"
         ],
         [
-          "November 7 - November 14",
-          "405",
-          "304",
-          "75.1%"
+          "November 15 - November 21",
+          "879",
+          "512",
+          "58.2%"
         ]
       ]
     },
@@ -253,13 +253,13 @@
       "rows": [
         [
           "Average Number of Days to Process Complete 2 Cases (cumulative over the last 2 weeks)",
-          "530",
+          "567",
           "17 Calendar Days"
         ],
         [
           "Average Number of Days to Process Incomplete Cases (cumulative over the last 2 weeks)",
-          "169",
-          "35 Calendar Days"
+          "150",
+          "34 Calendar Days"
         ]
       ]
     },
@@ -295,7 +295,7 @@
           "1,477",
           "100.0%",
           "--",
-          "1,477 (17,230 Workers)"
+          "1,477 (17,236 Workers)"
         ],
         [
           "Mar 2026",
@@ -406,25 +406,25 @@
           "299 (10,082 Workers)",
           "299",
           "100.0%",
-          "72 (1,794 Workers)",
-          "181 (7,916 Workers)"
+          "65 (1,523 Workers)",
+          "234 (8,142 Workers)"
         ],
         [
           "November 2026",
-          "852 (20,940 Workers)",
-          "486",
-          "57.0%",
-          "486 (12,662 Workers)",
+          "886 (21,648 Workers)",
+          "657",
+          "74.0%",
+          "657 (16,648 Workers)",
           "--"
         ],
         [
           "Total Cases Issued Final Decision and Positions Certified (for FY 2027 First Half Visa Cap)",
-          "3,835 (70,304 Workers)"
+          "3,842 (70,530 Workers)"
         ]
       ]
     },
     {
-      "heading": "CW-1 Processing Times (updated as of close of business 11/14/2026)",
+      "heading": "CW-1 Processing Times (updated as of close of business 11/21/2026)",
       "header": [
         "",
         "STEP 1",
@@ -486,39 +486,39 @@
           "93 (340 Workers)",
           "93",
           "100.0%",
-          "8 (57 Workers)",
-          "85 (189 Workers)"
+          "6 (51 Workers)",
+          "87 (189 Workers)"
         ],
         [
           "August",
           "127 (494 Workers)",
           "127",
           "100.0%",
-          "25 (179 Workers)",
-          "102 (260 Workers)"
+          "24 (169 Workers)",
+          "103 (270 Workers)"
         ],
         [
           "September",
           "133 (573 Workers)",
           "133",
           "100.0%",
-          "32 (155 Workers)",
-          "101 (383 Workers)"
+          "24 (109 Workers)",
+          "109 (422 Workers)"
         ],
         [
           "October",
           "155 (700 Workers)",
           "155",
           "100.0%",
-          "107 (493 Workers)",
-          "48 (160 Workers)"
+          "82 (372 Workers)",
+          "73 (263 Workers)"
         ],
         [
           "November",
-          "230 (1,008 Workers)",
-          "214",
-          "93.0%",
-          "56 (219 Workers)",
+          "264 (1,147 Workers)",
+          "246",
+          "93.2%",
+          "88 (293 Workers)",
           "158 (572 Workers)"
         ]
       ]
@@ -543,27 +543,27 @@
         ],
         [
           "New CW-1 Visas 8",
-          "924 (4,397 Workers)",
-          "913",
-          "98.8%",
-          "149 (738 Workers)",
-          "764 (2,794 Workers)"
+          "943 (4,477 Workers)",
+          "933",
+          "98.9%",
+          "150 (713 Workers)",
+          "783 (2,847 Workers)"
         ],
         [
           "Renewal of CW-1 Visas 9",
-          "1,243 (4,569 Workers)",
-          "1,238",
-          "99.6%",
-          "94 (443 Workers)",
-          "1,144 (3,493 Workers)"
+          "1,258 (4,628 Workers)",
+          "1,250",
+          "99.4%",
+          "89 (359 Workers)",
+          "1,161 (3,592 Workers)"
         ],
         [
           "TOTALS",
-          "2,167 (8,966 Workers)",
-          "2,151",
-          "99.3%",
-          "243 (1,181 Workers)",
-          "1,908 (6,287 Workers)"
+          "2,201 (9,105 Workers)",
+          "2,183",
+          "99.2%",
+          "239 (1,072 Workers)",
+          "1,944 (6,439 Workers)"
         ]
       ]
     }
@@ -571,7 +571,7 @@
   "as_of": "10/31/2026",
   "url": "https://flag.dol.gov/processingtimes",
   "meta": {
-    "generated_at": "2026-11-22T16:17:29+00:00",
+    "generated_at": "2026-11-24T02:54:56+00:00",
     "sample": false,
     "source_url": "https://flag.dol.gov/processingtimes"
   }

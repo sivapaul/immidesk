@@ -1,9 +1,26 @@
 {
   "meta": {
-    "generated_at": "2026-11-23T14:41:25+00:00",
+    "generated_at": "2026-11-24T02:55:11+00:00",
     "sample": false
   },
   "items": [
+    {
+      "id": "uscis_news-df91a4c50c",
+      "title": "Oakdale Visa Fraud Scheme Ringleader Sentenced to 10 Years in Federal Prison; Four Co-Conspirators Also Sentenced to Five Years Each",
+      "summary": "",
+      "kind": "agency_news",
+      "published": "2026-11-23",
+      "sources": [
+        {
+          "id": "uscis_news",
+          "name": "USCIS newsroom",
+          "url": "https://www.uscis.gov/newsroom/news-releases/oakdale-visa-fraud-scheme-ringleader-sentenced-to-10-years-in-federal-prison-four-co-conspirators",
+          "published": "2026-11-23"
+        }
+      ],
+      "deadlines": [],
+      "tags": []
+    },
     {
       "id": "fr-2026-23370",
       "title": "Modernizing the Labor Market Test and Improving Protections for U.S. Workers in the PERM Immigrant Visa Program",
