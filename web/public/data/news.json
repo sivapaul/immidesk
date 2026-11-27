@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-26T13:55:26+00:00",
+    "generated_at": "2026-11-27T00:36:57+00:00",
     "sample": false
   },
   "items": [
@@ -1663,35 +1663,6 @@
       "tags": [
         "students",
         "travel"
-      ]
-    },
-    {
-      "id": "fr-2026-15268",
-      "title": "30-Day Notice of Proposed Information Collection: Petition To Classify Special Immigrant Under INA 203(b)(4) as an Employee or Former Employee of the U.S. Government Abroad, or the Surviving Spouse or Child of an Employee of the U.S. Government Abroad",
-      "summary": "The Department of State has submitted the information collection described below to the Office of Management and Budget (OMB) for approval. In accordance with the Paperwork Reduction Act of 1995, we are requesting comments on this collection from all interested individuals and organizations. The purpose of this Notice is to allow 30 days for public comment.",
-      "kind": "notice",
-      "published": "2026-07-29",
-      "fr_doc": "2026-15268",
-      "sources": [
-        {
-          "id": "federal_register",
-          "name": "Federal Register",
-          "url": "https://www.federalregister.gov/documents/2026/07/29/2026-15268/30-day-notice-of-proposed-information-collection-petition-to-classify-special-immigrant-under-ina",
-          "published": "2026-07-29",
-          "detail": "State Department"
-        }
-      ],
-      "deadlines": [
-        {
-          "date": "2026-08-28",
-          "type": "comments_close",
-          "label": "Public comments close",
-          "confidence": "high",
-          "method": "structured"
-        }
-      ],
-      "tags": [
-        "family"
       ]
     }
   ]
