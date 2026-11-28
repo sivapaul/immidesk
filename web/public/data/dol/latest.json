@@ -286,8 +286,8 @@
           "8,487 (133,006 Workers)",
           "8,487",
           "100.0%",
-          "3 (54 Workers)",
-          "8,484 (121,550 Workers)"
+          "1 (8 Workers)",
+          "8,486 (121,596 Workers)"
         ],
         [
           "Feb 2026",
@@ -326,8 +326,8 @@
           "72 (805 Workers)",
           "72",
           "100.0%",
-          "--",
-          "72 (699 Workers)"
+          "1 (30 Workers)",
+          "71 (686 Workers)"
         ],
         [
           "Jul 2026",
@@ -339,7 +339,7 @@
         ],
         [
           "Total Cases Issued Final Decision and Positions Certified (for FY 2026 Second Half Visa Cap)",
-          "10,478 (143,883 Workers)"
+          "10,479 (143,916 Workers)"
         ]
       ]
     },
@@ -399,7 +399,7 @@
           "281",
           "100.0%",
           "3 (62 Workers)",
-          "278 (3,749 Workers)"
+          "279 (3,764 Workers)"
         ],
         [
           "October 2026",
@@ -407,19 +407,19 @@
           "299",
           "100.0%",
           "65 (1,523 Workers)",
-          "234 (8,142 Workers)"
+          "250 (8,359 Workers)"
         ],
         [
           "November 2026",
-          "886 (21,648 Workers)",
-          "657",
+          "981 (23,357 Workers)",
+          "786",
           "74.0%",
           "657 (16,648 Workers)",
-          "--"
+          "46 (1,108 Workers)"
         ],
         [
           "Total Cases Issued Final Decision and Positions Certified (for FY 2027 First Half Visa Cap)",
-          "3,842 (70,530 Workers)"
+          "3,859 (70,762 Workers)"
         ]
       ]
     },
@@ -571,7 +571,7 @@
   "as_of": "10/31/2026",
   "url": "https://flag.dol.gov/processingtimes",
   "meta": {
-    "generated_at": "2026-11-27T00:36:45+00:00",
+    "generated_at": "2026-11-28T07:51:33+00:00",
     "sample": false,
     "source_url": "https://flag.dol.gov/processingtimes"
   }
