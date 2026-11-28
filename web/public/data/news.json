@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-11-27T13:53:34+00:00",
+    "generated_at": "2026-11-28T00:04:12+00:00",
     "sample": false
   },
   "items": [
@@ -1634,36 +1634,6 @@
         }
       ],
       "tags": []
-    },
-    {
-      "id": "fr-2026-15450",
-      "title": "Exchange Visitor Program-Termination of Program Participation, Extension of Program and Reinstatement to Valid Program Status",
-      "summary": "The Department of State's (Department's) Bureau of Educational and Cultural Affairs administers the Exchange Visitor Program, as set forth at 22 CFR part 62, wherein exchange visitors on educational and cultural exchange programs travel to the United States in the J visa category. The Department tracks the status and geographic location of exchange visitors through the Student and Exchange Visitor",
-      "kind": "proposed_rule",
-      "published": "2026-07-30",
-      "fr_doc": "2026-15450",
-      "sources": [
-        {
-          "id": "federal_register",
-          "name": "Federal Register",
-          "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15450/exchange-visitor-program-termination-of-program-participation-extension-of-program-and-reinstatement",
-          "published": "2026-07-30",
-          "detail": "State Department"
-        }
-      ],
-      "deadlines": [
-        {
-          "date": "2026-07-30",
-          "type": "comments_close",
-          "label": "Public comments close",
-          "confidence": "high",
-          "method": "structured"
-        }
-      ],
-      "tags": [
-        "students",
-        "travel"
-      ]
     }
   ]
 }
